@@ -168,7 +168,7 @@
             if (!message) {
                 $scope.sending = true;
                 var message = $scope.prepareMessage();
-                $http.post('/dishes?data=' + JSON.stringify(message), { data: message })
+                $http.post('/dishes', { data: message })
                     .success(function (res) {
                     $scope.sended = true;
                     $scope.sending = false;

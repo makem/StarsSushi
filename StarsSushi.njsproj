@@ -60,6 +60,7 @@
     <Content Include="public\media\tort_sushi.jpg" />
     <Content Include="public\media\фила-вип.jpg" />
     <Content Include="README.md" />
+    <Content Include="routes\email.jade" />
     <Content Include="views\index.jade" />
     <Content Include="views\layout.jade" />
     <Content Include="views\error.jade" />
