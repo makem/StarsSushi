@@ -44,10 +44,6 @@
                             <div class="flag-lt" ng-click="setLtLanguage()"></div>
                             <div class="flag-ru" ng-click="setRuLanguage()"></div>
                         </div>
-                        <div class="currencies">
-                            <span class="currency lt" ng-class="{'selected':isLt()}" ng-click="setLt()">LT</span> &nbsp;
-                            <span class="currency eur" ng-class="{'selected':isEur()}" ng-click="setEur()">EUR</span>
-                        </div>
                     </div>
                     <p ng-show="cart.cleared" ng-bind="L.thanks"></p>
                     <div id="main-section">
@@ -84,7 +80,7 @@
                                             <div class="dish-number" ng-bind="dish.number"></div>
                                             <div class="dish-name" ng-bind="dish.name"></div>
                                         </a>
-                                        <button class="add-to-cart" ng-click="cart.addItem(dish)">{{price(dish.price)}} {{currency}}. <i class="fa fa-shopping-cart"></i></button>
+                                        <button class="add-to-cart" ng-click="cart.addItem(dish)">{{price(dish.price)}} EUR. <i class="fa fa-shopping-cart"></i></button>
                                     </li>
                                 </ul>
                                 <div ng-show="viewMode=='detail'">
@@ -101,7 +97,7 @@
                                                 <p ng-bind="selectedDish.descriptionLT"></p>
                                                 <p ng-bind="selectedDish.descriptionRU"></p>
                                                 <div id="details-total">
-                                                    <p id="price-quantity" ng-bind-template="{{price(selectedDish.price)}} {{currency}}."></p>
+                                                    <p id="price-quantity" ng-bind-template="{{price(selectedDish.price)}} EUR."></p>
                                                     <button class="buy" ng-click="cart.addItem(selectedDish)"><i class="fa fa-shopping-cart"></i></button>
                                                 </div>
                                             </div>
