@@ -5,7 +5,7 @@
       "name":"Sušių tortas",
       "descriptionLT":"Unagi maki,Aliaska,Filadelpija,Silkė maki,Kalifornia De Luxe,Bonito maki- viso 48 vnt.",
       "descriptionRU":"Unagi maki,Aliaska,Filadelphia,Hosomaki su agurkas,Kalifornia De Luxe,Bonito maki- всего 48 кусочков.",
-      "price":89.0,
+      "price":25.50,
       "url":"/media/tort_sushi.jpg"
    },
    {  
@@ -14,7 +14,7 @@
       "name":"RINKINYS STARS № 1",
       "descriptionLT":"HOSOMAKI:SU AGURKAIS,SU LAŠIŠA,SU KREVETE,SU AVOKADU, SU KRABŲ LAZDELE-viso 40 vnt.\r\n",
       "descriptionRU":"Хосомаки: c огурцом,с лососем,с крабовой палочкой,с креветкой,с авокадо-всего 40 кус.\r\n",
-      "price":41.0,
+      "price":11.90,
       "url":"/media/set_stars_1.jpg"
    },
    {  
@@ -23,7 +23,7 @@
       "name":"Rinkinys STARS № 2",
       "descriptionLT":"Gunkan:su masago ikrais ,su lašišos ikrais,su aštria lašiša,su aštriomis krevetėmis",
       "descriptionRU":"Гунканы: с икрой \"Масаго\",с икрой лосося,с острым лососем,с острыми креветками",
-      "price":30.0,
+      "price":8.70,
       "url":"/media/gunkan-stars2-.jpg"
    },
    {  
@@ -32,7 +32,7 @@
       "name":"RINKINYS STARS № 3 užkepti",
       "descriptionLT":"AŠTRIUS MAKI, KAECI, GRAIKIJOS-viso 24 vnt.",
       "descriptionRU":"Запеченые: Спайси маки,Каеси,Греческий-всего 24 кус.",
-      "price":58.0,
+      "price":16.80,
       "url":"/media/stars3.png"
    },
    {  
@@ -41,7 +41,7 @@
       "name":"RINKINYS STARS № 4",
       "descriptionLT":"FILADELFIJA, UNAGI MAKI, KALIFORNIJA DE LUXE -viso 24 vnt.",
       "descriptionRU":"Филадельфия,Унаги маки,Калифорния де Люкс- всего 24 кус.",
-      "price":44.0,
+      "price":12.70,
       "url":"/media/set4.jpg"
    },
    {  
@@ -50,7 +50,7 @@
       "name":"Rinkinys STARS № 5",
       "descriptionLT":"Filadelfia, Unagi maki, Aliaska, Bonito maki ,Silkė maki - viso 40 vnt.\r\n",
       "descriptionRU":"Филадельфия,Унаги маки,Аляска,Бонито Маки, Силке маки- всего 40 кус.",
-      "price":66.0,
+      "price":19.10,
       "url":"/media/set-5plus5.jpg"
    },
    {  
@@ -59,7 +59,7 @@
       "name":"Vip Filadelfija",
       "descriptionLT":"Lašiša, sūris, agurkai, lašišų ikrai- viso 8 vnt. \r\n",
       "descriptionRU":"Лосось, сыр сливочный, огурец, икра красная-всего 8 кус.",
-      "price":26.0,
+      "price":7.50,
       "url":"/media/фила-вип.jpg"
    },
    {  
@@ -68,7 +68,7 @@
       "name":"Igai Jaki/ Aštrus Igai Jaki",
       "descriptionLT":"Karštos midijos su Jaki padažu\r\n",
       "descriptionRU":"Мидии в яки-соусе",
-      "price":20.0,
+      "price":5.80,
       "url":"/media/унай-яги.jpg"
    },
    {  
@@ -77,7 +77,7 @@
       "name":"Ebi tempura",
       "descriptionLT":"Tempūroje keptos paniruotos tigrinės krevetės\r\n",
       "descriptionRU":"Тигровые креветки,запеченные в кляре темпура",
-      "price":28.0,
+      "price":8.11,
       "url":"/media/темпура.jpg"
    },
    {  
@@ -86,7 +86,7 @@
       "name":"Bonito Maki",
       "descriptionLT":"Sūris, lašiša, tuno drožlės - viso 8 vnt.",
       "descriptionRU":"Сыр сливочный, лосось,стружка тунца - всего 8 кус.",
-      "price":13.0,
+      "price":3.80,
       "url":"/media/бонито-маки.jpg"
    },
    {  
@@ -95,7 +95,7 @@
       "name":"Kalifornia Masago",
       "descriptionLT":"Masago ikrai, krabų lazdelės, agurkai - viso 8 vnt.",
       "descriptionRU":"Икра масаго, крабовые палочки, огурец-всего 8 кус.",
-      "price":13.0,
+      "price":3.80,
       "url":"/media/калифорния-тобаго.jpg"
    },
    {  
@@ -104,7 +104,7 @@
       "name":"Bravo Maki",
       "descriptionLT":"Lašiša, krabų lazdelės, agurkai,aštrus padažas- viso 8 vnt.",
       "descriptionRU":"Крабовые палочки, лосось, огурец, спайс соус-всего 8 кус.",
-      "price":13.0,
+      "price":3.80,
       "url":"/media/браво-маки.jpg"
    },
    {  
@@ -113,7 +113,7 @@
       "name":"Filadelpija",
       "descriptionLT":"Lašiša, sūris, agurkai - viso 8 vnt.",
       "descriptionRU":"Лосось, сыр сливочный, огурец, икра красная -всего 8 кус.",
-      "price":15.0,
+      "price":4.30,
       "url":"/media/филадельфия.jpg"
    },
    {  
@@ -122,7 +122,7 @@
       "name":"Unagi Maki",
       "descriptionLT":"Ungurys, agurkai, sezamo sėklos- viso 8 vnt.",
       "descriptionRU":"Угорь, огурец, кунжут-всего 8 кус.",
-      "price":15.0,
+      "price":4.30,
       "url":"/media/унаги-маки.jpg"
    },
    {  
@@ -131,7 +131,7 @@
       "name":"Aliaska",
       "descriptionLT":"Lašiša, agurkai, masago ikrai - viso 8 vnt.",
       "descriptionRU":"Лосось, огурец, икра масаго - всего 8 кус.",
-      "price":15.0,
+      "price":4.30,
       "url":"/media/аляска.jpg"
    },
    {  
@@ -140,7 +140,7 @@
       "name":"Kalifornia De Luxe",
       "descriptionLT":"Masago ikrai, sūris, krevetės, paprika- viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр сливочный, креветка, паприка-всего 8 кус.",
-      "price":19.0,
+      "price":5.50,
       "url":"/media/калифорния-делюкс.jpg"
    },
    {  
@@ -149,7 +149,7 @@
       "name":"Naujoji Meksika",
       "descriptionLT":"Ungurys, sūris, tuno drožlės, paprika - viso 8 vnt.",
       "descriptionRU":"Угорь, сыр сливочный,стружка тунца, паприка- всего 8 кус.",
-      "price":19.0,
+      "price":5.50,
       "url":"/media/нью-мексика.jpg"
    },
    {  
@@ -158,7 +158,7 @@
       "name":"Nagoja",
       "descriptionLT":"Ungurys, agurkai, sūris,sezamo sėklos - viso 8 vnt.",
       "descriptionRU":"Угорь, огурец, сыр,кунжут- всего 8 кус.",
-      "price":19.0,
+      "price":5.50,
       "url":"/media/нагойя.jpg"
    },
    {  
@@ -167,7 +167,7 @@
       "name":"Ebi Ikura Maki",
       "descriptionLT":"Sūris, krevetės, lašišų ikrai- viso 8 vnt.",
       "descriptionRU":"Сыр сливочный, креветка, икра красная-всего 8 кус.",
-      "price":26.0,
+      "price":7.50,
       "url":"/media/эби-икура-маки.jpg"
    },
    {  
@@ -176,7 +176,7 @@
       "name":"Tailando",
       "descriptionLT":"Masago ikrai, sūris,krabų lazdelės, ungurys- viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр, крабовые палочки, угорь-всего 8 кус.",
-      "price":26.0,
+      "price":7.50,
       "url":"/media/тай.jpg"
    },
    {  
@@ -185,7 +185,7 @@
       "name":"Kontrastai",
       "descriptionLT":"Krevetės, paprika, sūris, ungurys, sezamo sėklos - viso 8 vnt.",
       "descriptionRU":"Креветка, паприка, сыр, угорь, кунжут- всего 8 кус.",
-      "price":26.0,
+      "price":7.50,
       "url":"/media/контрасты.jpg"
    },
    {  
@@ -194,7 +194,7 @@
       "name":"Kaeci (užkepti)",
       "descriptionLT":"Lašiša, midijos, sūris, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Лосось, мидии, сыр, спайс соус-всего 8 кус.",
-      "price":18.0,
+      "price":5.20,
       "url":"/media/каеси.jpg"
    },
    {  
@@ -203,7 +203,7 @@
       "name":"Jaki Maki (užkepti)",
       "descriptionLT":"Lašiša, sūris, sezamo sėklos, masago ikrai - viso 8 vnt.",
       "descriptionRU":"Лосось, сыр сливочный, сезам,икра масаго -всего 8 кус.",
-      "price":18.0,
+      "price":5.20,
       "url":"/media/яки-маки.jpg"
    },
    {  
@@ -212,7 +212,7 @@
       "name":"Aštrus Maki (užkepti)",
       "descriptionLT":"Masago ikrai, lašiša, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, лосось, спайс соус- всего 8 кус.",
-      "price":18.0,
+      "price":5.20,
       "url":"/media/спайси-маки.jpg"
    },
    {  
@@ -221,7 +221,7 @@
       "name":"Sake Anigara (užkepti)",
       "descriptionLT":"Krabų lazdelės, lašiša, pomidorai, sūris - viso 8 vnt.",
       "descriptionRU":"Крабовые палочки, лосось, помидор, сыр сливочный-  viso 8 vnt.",
-      "price":18.0,
+      "price":5.20,
       "url":"/media/сяке-анигара.jpg"
    },
    {  
@@ -230,7 +230,7 @@
       "name":"Šiitaki Maki (užkepti)",
       "descriptionLT":"\"Šiitaki\" grybai, šukutės, sūris,aštrus padažas, Jaki padažas - viso 6 vnt.",
       "descriptionRU":"Грибы шиитаки, гребешок,сыр сливочный, спайс соус, яки соус- всего 6 кус.",
-      "price":18.0,
+      "price":5.20,
       "url":"/media/шиитаки.jpg"
    },
    {  
@@ -239,7 +239,7 @@
       "name":"Las Vegas (užkepti)",
       "descriptionLT":"Masago ikrai, sūris, krabų lazdelės,šukutės, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр, крабовые палочки,гребешок, спайс соус -всего 8 кус.",
-      "price":27.0,
+      "price":7.80,
       "url":"/media/лас-вегас.jpg"
    },
    {  
@@ -248,7 +248,7 @@
       "name":"Toronto (užkepti)",
       "descriptionLT":"Lašiša, šukutės, aštrus padažas - viso 6 vnt.",
       "descriptionRU":"Лосось, гребешок, спайс соус -всего 6 кус.",
-      "price":27.0,
+      "price":7.80,
       "url":"/media/торонто.jpg"
    },
    {  
@@ -257,7 +257,7 @@
       "name":"Jūros Vėjas (užkepti)",
       "descriptionLT":"Masago ikrai, šukutės, krevetės, sūris - viso 8 vnt.",
       "descriptionRU":"Икра масаго, гребешок, креветки, сыр - всего 8  кус.",
-      "price":27.0,
+      "price":7.80,
       "url":"/media/ветер-с-моря.png"
    },
    {  
@@ -266,7 +266,7 @@
       "name":"Graikijos (užkepti)",
       "descriptionLT":"Lašiša, ungurys, krevetės, sezamo sėklos - viso 8 vnt.",
       "descriptionRU":"Лосось, угорь, креветки, кунжут - всего 8 кус.",
-      "price":27.0,
+      "price":7.80,
       "url":"/media/греческий.jpg"
    },
    {  
@@ -275,7 +275,7 @@
       "name":"Meksika (užkepti)",
       "descriptionLT":"Masago ikrai, lašiša, ungurys,pomidorai, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, лосось, угорь,помидор, спайс соус -всего 8 кус.",
-      "price":27.0,
+      "price":7.80,
       "url":"/media/мексика.jpg"
    },
    {  
@@ -284,7 +284,7 @@
       "name":"“Miso” sriuba",
       "descriptionLT":"Miso pasta, “Dashi” sultinys, “Tofu” sūris, jūros dumbliai",
       "descriptionRU":"Паста мисо, сыр тофу, бульон даси, морские водоросли",
-      "price":8.0,
+      "price":2.30,
       "url":"/media/суп-мисо.jpg"
    },
    {  
@@ -293,7 +293,7 @@
       "name":"STARS",
       "descriptionLT":"ungurys,lasiša, tigrinės krevetės,sūris,masago ikrai, sezamo sėklos - viso 8 vnt.",
       "descriptionRU":"угорь, лосось,тигровые креветки, икра масаго,кунжут -всего 8 кус.",
-      "price":38.0,
+      "price":11.0,
       "url":"/media/ролл-stars.jpg"
    },
    {  
@@ -302,7 +302,7 @@
       "name":"Vaikiškas sušis",
       "descriptionLT":"Agurkai, sūris, sezamo sėklos - viso 8 vnt.",
       "descriptionRU":"Огурец, сыр, кунжут -всего 8 кус.",
-      "price":9.0,
+      "price":2.60,
       "url":"/media/детский_квадрат.jpg"
    },
    {  
@@ -311,7 +311,7 @@
       "name":"Miso sriuba su lašiša",
       "descriptionLT":"Lašiša, grietinėlė, jūros dumbliai ",
       "descriptionRU":"Лосось, сливки, морские водоросли ",
-      "price":14.0,
+      "price":4.06,
       "url":"/media/суп-сливочный_2.jpg"
    },
    {  
@@ -320,7 +320,7 @@
       "name":"Miso sriuba su krevetėmis",
       "descriptionLT":"Tigrinės krevetės, grietinėlė, jūros dumbliai ",
       "descriptionRU":"Тигровая креветка, сливки, морские водоросли ",
-      "price":19.0,
+      "price":5.51,
       "url":"/media/no-image.jpg"
    },
    {  
@@ -329,7 +329,7 @@
       "name":"Miso sriuba su  unguriu",
       "descriptionLT":"Rūkytas ungurys, grietinėlė, jūros dumbliai ",
       "descriptionRU":"Копченый угорь, сливки, морские водоросли",
-      "price":22.0,
+      "price":6.38,
       "url":"/media/no-image.jpg"
    },
    {  
@@ -338,7 +338,7 @@
       "name":"Kreminė baravykų sriuba",
       "descriptionLT":"Baravykai, bulvės, morkos, brokoliai, žiediniai kopūstai, svogūnai, grietinėlė",
       "descriptionRU":"Боровики, картофель, морковь, брокколи, цветная капуста, лук, сливки",
-      "price":17.0,
+      "price":4.93,
       "url":"/media/суп-боровики.jpg"
    },
    {  
@@ -347,7 +347,7 @@
       "name":"“Močiutės” sriuba",
       "descriptionLT":"Jautienos išpjova,  itališki makaronai, pomidorai,  «Dižono» garstyčios, česnakas, sviestas",
       "descriptionRU":"Говяжья вырезка ,итальянская паста, помидоры, дижонская горчица, чеснок, сливочное масло",
-      "price":19.0,
+      "price":5.50,
       "url":"/media/суп-бабушкин_1.jpg"
    },
    {  
@@ -356,7 +356,7 @@
       "name":"Aštri pomidorų sriuba",
       "descriptionLT":"Pomidorai, salierai, čili pipirai, jūros gėrybės",
       "descriptionRU":"томаты, сельдерей, перец чили, микс из морепродуктов",
-      "price":16.0,
+      "price":4.64,
       "url":"/media/суп_томаты.jpg"
    },
    {  
@@ -365,7 +365,7 @@
       "name":"Aštri vištienos sriuba",
       "descriptionLT":"Vištienos krūtinėlė, agurkai, baltieji kiniški grybai,paprika, kiaušinis, čili pipirai",
       "descriptionRU":"куриная грудка, огурец, гриб белый китайский, перец, яйцо, перец чили",
-      "price":14.0,
+      "price":4.06,
       "url":"/media/суп_куриный-острый.jpg"
    },
    {  
@@ -374,7 +374,7 @@
       "name":"Kreminė vištiena sriuba",
       "descriptionLT":"Vištienos krūtinėlė, bulvės, morkos, svogūnai, žiediniai kopūstai, brokoliai, grietinėlė",
       "descriptionRU":"Куриная грудка, картофель, морковь, лук, цветная капуста, брокколи, сливки",
-      "price":14.0,
+      "price":4.06,
       "url":"/media/суп_овощи-и-курица.jpg"
    },
    {  
@@ -383,7 +383,7 @@
       "name":"“Cezario” salotos su vištiena",
       "descriptionLT":"Vištienos krūtinėlė, salotos „Iceberg”, „Parmezano” sūris, vyšniniai pomidorai, virti putpelių kiaušiniai, padažas",
       "descriptionRU":"куриная грудка, салат айсберг, сыр Пармезан, помидоры черри,вареные перепелиные яйца, соус ",
-      "price":19.0,
+      "price":5.50,
       "url":"/media/цезарь-салат-с-курицей_1.jpg"
    },
    {  
@@ -392,7 +392,7 @@
       "name":"\"Cezario\" salotos su  krevetėmis",
       "descriptionLT":"Tigrinės krevetės, salotos „Iceberg”, vyšniniai pomidorai, „Parmezano” sūris, virti putpelių kiaušiniai, padažas",
       "descriptionRU":"Tигровые креветки, салат айсберг, помидоры черри, сыр Пармезан, вареные перепелиные яйца, соус ",
-      "price":24.0,
+      "price":6.95,
       "url":"/media/цезарь-салат-с-креветками_1.jpg"
    },
    {  
@@ -401,7 +401,7 @@
       "name":"Graikiškos salotos",
       "descriptionLT":"Fetos sūris, alyvuogės, agurkai, pomidorai,paprika,mėlynieji svogūnai, alyvuogių aliejus",
       "descriptionRU":"Cыр фета, оливки, огурцы, помидоры,  синий лук, паприка, оливковое масло",
-      "price":12.0,
+      "price":3.48,
       "url":"/media/салат_греческий_1.jpg"
    },
    {  
@@ -410,7 +410,7 @@
       "name":"Vištienos kepenėlių salotos",
       "descriptionLT":"Vištienos kepenėlės, vynuogės, salotų lapai , medaus padažas ",
       "descriptionRU":"Куриная печень, виноград , листья салата, медовый соус",
-      "price":18.0,
+      "price":5.20,
       "url":"/media/салат-с-куриной-печенью-и-виноградом_2.jpg"
    },
    {  
@@ -419,7 +419,7 @@
       "name":"Salotos su avokadu",
       "descriptionLT":"Avokadas, tigrinės krevetės,salotų lapai, „Jaki“ padažas",
       "descriptionRU":"Авокадо, тигровые креветки, листья салата, «Яки» соус",
-      "price":22.0,
+      "price"6.38,
       "url":"/media/салат-с-авокадо-и-креветками_1.jpg"
    },
    {  
@@ -428,7 +428,7 @@
       "name":"Wakame salotos su riešutais",
       "descriptionLT":"Jūros dumbliai «Wakame», kedro riešutai, \"Teriyaki\" padažas",
       "descriptionRU":"Водоросли «вакаме», кедровые орешки, соус «Терияки»",
-      "price":15.0,
+      "price":4.30,
       "url":"/media/вакаме-салат_1.jpg"
    },
    {  
@@ -437,7 +437,7 @@
       "name":"Wakame salotos su krevetėmis",
       "descriptionLT":"Jūros dumbliai «Wakame»,\"Teriyaki\" padažas , tigrinės krevetės ",
       "descriptionRU":"Водоросли «вакамэ», тигровые креветки, соус терияки",
-      "price":24.0,
+      "price":7.0,
       "url":"/media/вакаме-крев.jpg"
    },
    {  
@@ -446,7 +446,7 @@
       "name":"Makaronai su baravykais",
       "descriptionLT":"Baravykai , itališki makaronai, grietinėlė",
       "descriptionRU":"Боровики, итальянская паста, сливки",
-      "price":19.0,
+      "price":5.51,
       "url":"/media/паста-с-грибами_1.jpg"
    },
    {  
@@ -455,7 +455,7 @@
       "name":"Makaronai su vištiena",
       "descriptionLT":"Vištienos krūtinėlė , itališki makaronai, paprika, svogūnai, cukinija, grietinėlė ",
       "descriptionRU":"Куриная грудка ,итальянская паста, болгарский перец, лук,цуккини,сливки",
-      "price":20.0,
+      "price":5.80,
       "url":"/media/паста_курица_1.jpg"
    },
    {  
@@ -464,7 +464,7 @@
       "name":"Makaronai su krevetėmis",
       "descriptionLT":"Tigrinės krevetės , itališki makaronai, vyšniniai pomidorai,grietinėlė",
       "descriptionRU":"Тигровые креветки, итальянская паста, томаты черри, сливки",
-      "price":26.0,
+      "price":8.10,
       "url":"/media/паста_креветки_1.jpg"
    },
    {  
@@ -473,7 +473,7 @@
       "name":"Makaronai su lašiša",
       "descriptionLT":"Lašiša, itališki makaronai ,grietinėlė, česnakas, degtinė",
       "descriptionRU":"Лосось, итальянская паста, сливки, чеснок, водка",
-      "price":25.0,
+      "price":7.24,
       "url":"/media/паста-интернационал_1.jpg"
    },
    {  
@@ -482,7 +482,7 @@
       "name":"Sušio-pica su krevetėmis",
       "descriptionLT":"Ryžiai, sūris, tigrinės krevetės, šefo padažas",
       "descriptionRU":"Рис, сыр, тигровые креветки, соус от шеф-повара",
-      "price":28.0,
+      "price":8.10,
       "url":"/media/пицца-с-креветкой.jpg"
    },
    {  
@@ -491,7 +491,7 @@
       "name":"Sušio-pica su sūriu",
       "descriptionLT":"Ryžiai, sūris, mėlynasis pelėsinis sūris, šefo padažas",
       "descriptionRU":"Рис, сыр, голубой сыр, соус от шеф-повара",
-      "price":18.0,
+      "price":5.20,
       "url":"/media/пицца-с-сыром.jpg"
    },
    {  
@@ -500,7 +500,7 @@
       "name":"Sušio-pica su su lašiša",
       "descriptionLT":"Ryžiai, sūris, cukinija, lašišos filė, šefo padažas",
       "descriptionRU":"Рис, сыр, цукини, филе лосося, соус от шеф-повара",
-      "price":19.0,
+      "price":5.50,
       "url":"/media/пицца-с-лососем_1.jpg"
    },
    {  
@@ -509,7 +509,7 @@
       "name":"Sušio-pica su vištiena",
       "descriptionLT":"Ryžiai, vištienos krūtinėlė, ananasai, sūris, šefo padažas",
       "descriptionRU":"Рис, куриное филе, ананас, сыр, соус от шеф-повара\r\n",
-      "price":15.0,
+      "price":4.30,
       "url":"/media/пицца-с-ананасом.jpg"
    },
    {  
@@ -518,7 +518,7 @@
       "name":"Gruzdinti svogūnų žiedai",
       "descriptionLT":"",
       "descriptionRU":"",
-      "price":8.0,
+      "price":2.32,
       "url":"/media/кольца-луковые.jpg"
    },
    {  
@@ -527,7 +527,7 @@
       "name":"Gruzdinti kalmarų žiedai",
       "descriptionLT":"",
       "descriptionRU":"",
-      "price":12.0,
+      "price":3.48,
       "url":"/media/кольца_кальмар.jpg"
    },
    {  
@@ -536,7 +536,7 @@
       "name":"Hosomaki su agurkais",
       "descriptionLT":"Viso 8 vnt.\r\nВсего 8 кус.",
       "descriptionRU":"",
-      "price":8.0,
+      "price":2.30,
       "url":"/media/хосо-с-огурцом.jpg"
    },
    {  
@@ -545,7 +545,7 @@
       "name":"Hosomaki su avokadu",
       "descriptionLT":"Viso 8 vnt.\r\nВсего 8 кус.",
       "descriptionRU":"",
-      "price":8.0,
+      "price":2.30,
       "url":"/media/хосо-с-авокадо.jpg"
    },
    {  
@@ -554,7 +554,7 @@
       "name":"Hosomaki su lašiša",
       "descriptionLT":"Viso 8 vnt.\r\nВсего 8 кус.",
       "descriptionRU":"",
-      "price":10.0,
+      "price":2.90,
       "url":"/media/хосо-с-лососем.jpg"
    },
    {  
@@ -563,7 +563,7 @@
       "name":"Hosomaki su unguriu",
       "descriptionLT":"Viso 8 vnt.\r\nВсего 8 кус.",
       "descriptionRU":"",
-      "price":15.0,
+      "price":4.30,
       "url":"/media/хосо-с-тунцом.jpg"
    },
    {  
@@ -572,7 +572,7 @@
       "name":"Hosomaki su krabų lazdelėmis",
       "descriptionLT":"Viso 8 vnt.\r\nВсего 8 кус.",
       "descriptionRU":"",
-      "price":8.0,
+      "price":2.30,
       "url":"/media/хосо-с-крабом.jpg"
    },
    {  
@@ -581,7 +581,7 @@
       "name":"Hosomaki su krevetėmis",
       "descriptionLT":"Viso 8 vnt.\r\nВсего 8 кус.",
       "descriptionRU":"",
-      "price":12.0,
+      "price":3.50,
       "url":"/media/hosomaki.jpg"
    }
 ]
