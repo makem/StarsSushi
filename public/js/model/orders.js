@@ -1,26 +1,7 @@
 ﻿function OrdersCtrl($scope, $http) {
-    $scope.currency = 'LT';
-    
-    $scope.isLt = function () {
-        return $scope.currency == 'LT';
-    };
-    $scope.isEur = function () {
-        return !$scope.isLt();
-    };
-    $scope.setLt = function () {
-        $scope.currency = 'LT';
-    };
-    $scope.setEur = function () {
-        $scope.currency = 'EUR';
-    };
-    
+
     $scope.price = function (value) {
-        if ($scope.isLt()) {
-            return value;
-        }
-        var rate = 3.4528;
-        var inEur = (value / rate).toFixed(2);
-        return inEur;
+        return value;
     };
     
     $scope.cart = {
@@ -72,7 +53,7 @@
         items: [],
         selfDelivery: false,
         totalPrice: function () {
-            return $scope.price($scope.cart.total()) + " " + $scope.currency + ".";
+            return $scope.price($scope.cart.total()) + " EUR.";
         },
         total: function () {
             var price = 0;
