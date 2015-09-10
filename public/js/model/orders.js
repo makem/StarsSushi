@@ -170,7 +170,7 @@
         $scope.cart.items.forEach(function (e) {
             dishes.push({ number: e.number, name: e.name, quantity: e.quantity });
         });
-        return { phone: $scope.phone, dishes: dishes, pikapas: $scope.cart.selfDelivery, price: $scope.cart.total(), address: $scope.address, entranceCode: $scope.entranceCode };
+        return { phone: $scope.phone, dishes: dishes, pikapas: $scope.cart.selfDelivery, price: $scope.cart.totalPrice(), address: $scope.address, entranceCode: $scope.entranceCode };
     };
 
     $scope.preloaderHidden = false;
