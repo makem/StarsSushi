@@ -413,13 +413,13 @@ h3
 
 .dish-name {
     margin-top: -36px;
-    margin-left: 30px;    
+    margin-left: 30px;
     background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,0.44) 36%,rgba(255,255,255,0.79) 65%,rgba(255,255,255,0.11) 95%,rgba(255,255,255,0) 100%);
     position: relative;
     height: 26px;
     padding-top: 9px;
     text-transform: capitalize;
-    
+
 }
 
 .view-details, .view-details:hover
@@ -509,7 +509,7 @@ h3
     vertical-align: middle;
 }
 .add-to-cart:hover
-{    
+{
     background-color: #d60041;
     color: #fff;
 }
@@ -879,10 +879,10 @@ table
 }
 
 #details-checkout table .value span
-{    
+{
     font-size:9pt;
     color: gray;
-    
+
 }
 
 
@@ -895,13 +895,13 @@ background-color: #DFFFDF;
     color: black;
 }
 
-#details-checkout table .value input[type=checkbox] 
+#details-checkout table .value input[type=checkbox]
 {
     width: 20px;
 }
 
 #details-checkout table tr {
-    height: 50px; 
+    height: 50px;
 }
 
 thead
@@ -1040,7 +1040,7 @@ table tbody td:first-child + td + td p
 .cancel-order
 {
     height: 48px;
-    
+
     display: inline-block;
     color: #d60041;
     font-size: 13px;
@@ -1205,7 +1205,7 @@ text-align: center;
     text-align: left;
     width: 100%;
     padding-left: 100px;
-    padding-right: 100px;    
+    padding-right: 100px;
 }
 
 #picapas{
@@ -1213,7 +1213,7 @@ text-align: center;
     text-align: left;
     width: 100%;
     padding-left: 100px;
-    padding-right: 100px;    
+    padding-right: 100px;
 }
 
 #picapas img
@@ -1226,17 +1226,17 @@ text-align: center;
     height: 176px;
     padding-right: 0px;
     float: left;
-    
+
 }
 
 #picapas span {
     margin-top: 10px;
     float: left;
     width: 660px;
-    
+
 }
 
-#picapas span phone 
+#picapas span phone
 {
     margin-top: 10px;
     color: #a90040;
@@ -1267,7 +1267,7 @@ margin-top: 20px;
 }
 
 .flag-lt {
-    background-image: url('../Images/flagLT.png');
+    background-image: url('../images/flagLT.png');
     background-size: contain;
     width: 35px;
     margin: 5px;
@@ -1277,7 +1277,7 @@ margin-top: 20px;
 }
 
 .flag-ru {
-    background-image: url('../Images/flagRU.png');
+    background-image: url('../images/flagRU.png');
     background-size: contain;
     width: 35px;
     height: 21px;

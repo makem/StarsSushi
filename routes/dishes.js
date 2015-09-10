@@ -10,7 +10,7 @@ router.post('/', function (req, res) {
 });
 
 function sendEmail(data) {
-    
+
     // create reusable transporter object using SMTP transport
     var transporter = nodemailer.createTransport({
         service: 'Gmail',
@@ -24,7 +24,7 @@ function sendEmail(data) {
     var emailBody = template(data);
     // NB! No need to recreate the transporter object. You can use
     // the same transporter object for all e-mails
-    
+
     // setup e-mail data with unicode symbols
     var mailOptions = {
         from: 'Stars Sushi <sushistarssender@gmail.com>', // sender address
@@ -33,7 +33,7 @@ function sendEmail(data) {
         text: emailBody,
         html: emailBody // html body
     };
-    
+
     // send mail with defined transport object
     transporter.sendMail(mailOptions, function (error, info) {
         if (error) {

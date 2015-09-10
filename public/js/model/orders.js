@@ -1,9 +1,9 @@
 ﻿function OrdersCtrl($scope, $http) {
 
     $scope.price = function (value) {
-        return value;
+        return value.toFixed(2);
     };
-    
+
     $scope.cart = {
         visible: true,
         cleared: false,
@@ -66,66 +66,66 @@
             return price;
         }
     };
-    
-    
+
+
     $scope.dishes = [];
-    
+
     $scope.selectDish = function ($index) {
-        
+
         $scope.viewMode = 'detail';
         $scope.selectedDish = $scope.dishes[$index];
         $scope.selectedIndex = $index;
     };
-    
+
     $scope.canMoveNext = function () {
         if ($scope.selectedIndex >= $scope.dishes.length - 1) {
             return false;
         }
         return true;
     };
-    
+
     $scope.canMovePrev = function () {
         if ($scope.selectedIndex >= 1) {
             return true;
         }
         return false;
     };
-    
+
     $scope.goToNext = function () {
         if ($scope.canMoveNext()) {
             $scope.selectDish($scope.selectedIndex + 1);
         }
     };
-    
+
     $scope.goToNextClass = function () {
         if (!$scope.canMoveNext()) {
             return 'disabled';
         }
         return '';
     };
-    
-    
-    
+
+
+
     $scope.goToPrev = function () {
         if ($scope.canMovePrev()) {
             $scope.selectDish($scope.selectedIndex - 1);
         }
     };
-    
+
     $scope.goToPrevClass = function () {
         if (!$scope.canMovePrev()) {
             return 'disabled';
         }
         return '';
     };
-    
+
     $scope.checkout = function () {
         $scope.viewMode = 'checkout';
     };
-    
+
     $scope.phone = null;
     $scope.sended = false;
-    
+
     $scope.newOrder = function () {
         $scope.cart.emptyCart();
         $scope.sended = false;
@@ -142,7 +142,7 @@
         }
         return null;
     };
-    
+
     $scope.proceed = function () {
         if (!$scope.sending) {
             var message = $scope.validateSendingData();
@@ -164,7 +164,7 @@
             }
         }
     };
-    
+
     $scope.prepareMessage = function () {
         var dishes = [];
         $scope.cart.items.forEach(function (e) {
@@ -172,7 +172,7 @@
         });
         return { phone: $scope.phone, dishes: dishes, pikapas: $scope.cart.selfDelivery, price: $scope.cart.total(), address: $scope.address, entranceCode: $scope.entranceCode };
     };
-    
+
     $scope.preloaderHidden = false;
     $http.get('/data/dishes.json')
         .success(function (res) {
@@ -182,8 +182,8 @@
         .error(function (data, status) {
 
     });
-    
-    
+
+
     $scope.viewMode = 'main';
     $scope.setRuLanguage = function () {
         $scope.L = ru;
@@ -191,12 +191,12 @@
     $scope.setLtLanguage = function () {
         $scope.L = lt;
     };
-    
+
     $scope.isDeliveryTime = function () {
         var hour = window.localHour;
         return hour >= 11 && hour < 22;
     };
-    
+
     $scope.setLtLanguage();
 }
 
@@ -260,4 +260,3 @@ var ru = {
     minOrder: 'Минимальная сумма заказа- 10 EUR',
     timeDelivery: 'Время приема заказов- ежедневно с 11 до 22 часов'
 };
-
