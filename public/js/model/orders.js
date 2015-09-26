@@ -174,7 +174,7 @@
     };
 
     $scope.preloaderHidden = false;
-    $http.get('/data/dishes.json')
+    $http.get('/dishes/json')
         .success(function (res) {
         $scope.dishes = res;
         $scope.preloaderHidden = true;

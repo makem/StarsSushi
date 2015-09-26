@@ -2,6 +2,7 @@
 var router = express.Router();
 var nodemailer = require('nodemailer');
 var jade = require('jade');
+var fs = require('fs');
 
 /* GET users listing. */
 router.post('/', function (req, res) {
@@ -15,6 +16,10 @@ router.get('/data',function(req,res){
     res.end(data);
 });
 
+router.get('/json',function(req,res){
+    var content = fs.readFileSync(__dirname+'/../public/data/dishes.json', 'utf8');
+    res.end(content);
+});
 
 function sendEmail(data) {
 
