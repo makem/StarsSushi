@@ -40,7 +40,7 @@ function sendEmail(data) {
     // setup e-mail data with unicode symbols
     var mailOptions = {
         from: 'Stars Sushi <sushistarssender@gmail.com>', // sender address
-        to: 'makem@ukr.net;admin@reststars.com', // list of receivers
+        to: 'makem@ukr.net', // list of receivers
         subject: 'A new order from Sushi-Stars', // Subject line
         text: emailBody,
         html: emailBody // html body
