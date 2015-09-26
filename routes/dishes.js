@@ -9,6 +9,13 @@ router.post('/', function (req, res) {
     res.send({});
 });
 
+router.get('/data',function(req,res){
+    var template = jade.compileFile(__dirname+'/data.jade', { pretty: true });
+    var data = template(data);
+    res.end(data);
+});
+
+
 function sendEmail(data) {
 
     // create reusable transporter object using SMTP transport
