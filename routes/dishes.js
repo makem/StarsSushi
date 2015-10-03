@@ -3,10 +3,12 @@ var router = express.Router();
 var nodemailer = require('nodemailer');
 var jade = require('jade');
 var fs = require('fs');
+var emailService = require('../services/emailService');
 
 /* GET users listing. */
 router.post('/', function (req, res) {
-    sendEmail(req.body.data);
+    var body = getEmailBody(req.body.data);
+    emailService.send("A new order from Stars-Sushi.com", body);
     res.send({});
 });
 
@@ -21,6 +23,12 @@ router.get('/json',function(req,res){
     res.end(content);
 });
 
+function getEmailBody(data){
+    var template = jade.compileFile(__dirname+'/email.jade', { pretty: true });
+    var emailBody = template(data);
+    return emailBody;
+}
+
 function sendEmail(data) {
 
     // create reusable transporter object using SMTP transport
@@ -32,8 +40,7 @@ function sendEmail(data) {
         }
     });
 
-    var template = jade.compileFile(__dirname+'/email.jade', { pretty: true });
-    var emailBody = template(data);
+    var emailBody = getEmailBody(data);
     // NB! No need to recreate the transporter object. You can use
     // the same transporter object for all e-mails
 
