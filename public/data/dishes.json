@@ -338,7 +338,7 @@
       "name":"Kreminė baravykų sriuba",
       "descriptionLT":"Baravykai, bulvės, morkos, brokoliai, žiediniai kopūstai, svogūnai, grietinėlė",
       "descriptionRU":"Боровики, картофель, морковь, брокколи, цветная капуста, лук, сливки",
-      "price":4.93,
+      "price":4.50,
       "url":"/media/суп-боровики.jpg"
    },
    {  
@@ -356,7 +356,7 @@
       "name":"Aštri pomidorų sriuba",
       "descriptionLT":"Pomidorai, salierai, čili pipirai, jūros gėrybės",
       "descriptionRU":"томаты, сельдерей, перец чили, микс из морепродуктов",
-      "price":4.64,
+      "price":4.50,
       "url":"/media/суп_томаты.jpg"
    },
    {  
@@ -365,7 +365,7 @@
       "name":"Aštri vištienos sriuba",
       "descriptionLT":"Vištienos krūtinėlė, agurkai, baltieji kiniški grybai,paprika, kiaušinis, čili pipirai",
       "descriptionRU":"куриная грудка, огурец, гриб белый китайский, перец, яйцо, перец чили",
-      "price":4.06,
+      "price":4.00,
       "url":"/media/суп_куриный-острый.jpg"
    },
    {  
@@ -374,7 +374,7 @@
       "name":"Kreminė vištiena sriuba",
       "descriptionLT":"Vištienos krūtinėlė, bulvės, morkos, svogūnai, žiediniai kopūstai, brokoliai, grietinėlė",
       "descriptionRU":"Куриная грудка, картофель, морковь, лук, цветная капуста, брокколи, сливки",
-      "price":4.06,
+      "price":3.50,
       "url":"/media/суп_овощи-и-курица.jpg"
    },
    {  
@@ -383,7 +383,7 @@
       "name":"“Cezario” salotos su vištiena",
       "descriptionLT":"Vištienos krūtinėlė, salotos „Iceberg”, „Parmezano” sūris, vyšniniai pomidorai, virti putpelių kiaušiniai, padažas",
       "descriptionRU":"куриная грудка, салат айсберг, сыр Пармезан, помидоры черри,вареные перепелиные яйца, соус ",
-      "price":5.50,
+      "price":5.70,
       "url":"/media/цезарь-салат-с-курицей_1.jpg"
    },
    {  
@@ -410,7 +410,7 @@
       "name":"Vištienos kepenėlių salotos",
       "descriptionLT":"Vištienos kepenėlės, vynuogės, salotų lapai , medaus padažas ",
       "descriptionRU":"Куриная печень, виноград , листья салата, медовый соус",
-      "price":5.20,
+      "price":4.00,
       "url":"/media/салат-с-куриной-печенью-и-виноградом_2.jpg"
    },
    {  
@@ -419,7 +419,7 @@
       "name":"Salotos su avokadu",
       "descriptionLT":"Avokadas, tigrinės krevetės,salotų lapai, „Jaki“ padažas",
       "descriptionRU":"Авокадо, тигровые креветки, листья салата, «Яки» соус",
-      "price":6.38,
+      "price":7.00,
       "url":"/media/салат-с-авокадо-и-креветками_1.jpg"
    },
    {  
@@ -446,7 +446,7 @@
       "name":"Makaronai su baravykais",
       "descriptionLT":"Baravykai , itališki makaronai, grietinėlė",
       "descriptionRU":"Боровики, итальянская паста, сливки",
-      "price":5.51,
+      "price":5.50,
       "url":"/media/паста-с-грибами_1.jpg"
    },
    {  
@@ -455,7 +455,7 @@
       "name":"Makaronai su vištiena",
       "descriptionLT":"Vištienos krūtinėlė , itališki makaronai, paprika, svogūnai, cukinija, grietinėlė ",
       "descriptionRU":"Куриная грудка ,итальянская паста, болгарский перец, лук,цуккини,сливки",
-      "price":5.80,
+      "price":8.00,
       "url":"/media/паста_курица_1.jpg"
    },
    {  
@@ -464,7 +464,7 @@
       "name":"Makaronai su krevetėmis",
       "descriptionLT":"Tigrinės krevetės , itališki makaronai, vyšniniai pomidorai,grietinėlė",
       "descriptionRU":"Тигровые креветки, итальянская паста, томаты черри, сливки",
-      "price":8.10,
+      "price":8.00,
       "url":"/media/паста_креветки_1.jpg"
    },
    {  
@@ -473,7 +473,7 @@
       "name":"Makaronai su lašiša",
       "descriptionLT":"Lašiša, itališki makaronai ,grietinėlė, česnakas, degtinė",
       "descriptionRU":"Лосось, итальянская паста, сливки, чеснок, водка",
-      "price":7.24,
+      "price":7.00,
       "url":"/media/паста-интернационал_1.jpg"
    },
    {  
@@ -518,7 +518,7 @@
       "name":"Gruzdinti svogūnų žiedai",
       "descriptionLT":"",
       "descriptionRU":"",
-      "price":2.32,
+      "price":5.00,
       "url":"/media/кольца-луковые.jpg"
    },
    {  
@@ -527,7 +527,7 @@
       "name":"Gruzdinti kalmarų žiedai",
       "descriptionLT":"",
       "descriptionRU":"",
-      "price":3.48,
+      "price":3.50,
       "url":"/media/кольца_кальмар.jpg"
    },
    {  
