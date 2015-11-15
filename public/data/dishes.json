@@ -306,33 +306,6 @@
       "url":"/media/детский_квадрат.jpg"
    },
    {  
-      "id":1157,
-      "number":"33",
-      "name":"Miso sriuba su lašiša",
-      "descriptionLT":"Lašiša, grietinėlė, jūros dumbliai ",
-      "descriptionRU":"Лосось, сливки, морские водоросли ",
-      "price":4.06,
-      "url":"/media/суп-сливочный_2.jpg"
-   },
-   {  
-      "id":1160,
-      "number":"34",
-      "name":"Miso sriuba su krevetėmis",
-      "descriptionLT":"Tigrinės krevetės, grietinėlė, jūros dumbliai ",
-      "descriptionRU":"Тигровая креветка, сливки, морские водоросли ",
-      "price":5.51,
-      "url":"/media/no-image.jpg"
-   },
-   {  
-      "id":1161,
-      "number":"35",
-      "name":"Miso sriuba su  unguriu",
-      "descriptionLT":"Rūkytas ungurys, grietinėlė, jūros dumbliai ",
-      "descriptionRU":"Копченый угорь, сливки, морские водоросли",
-      "price":6.38,
-      "url":"/media/no-image.jpg"
-   },
-   {  
       "id":1162,
       "number":"36",
       "name":"Kreminė baravykų sriuba",
@@ -387,24 +360,6 @@
       "url":"/media/цезарь-салат-с-курицей_1.jpg"
    },
    {  
-      "id":1179,
-      "number":"42",
-      "name":"\"Cezario\" salotos su  krevetėmis",
-      "descriptionLT":"Tigrinės krevetės, salotos „Iceberg”, vyšniniai pomidorai, „Parmezano” sūris, virti putpelių kiaušiniai, padažas",
-      "descriptionRU":"Tигровые креветки, салат айсберг, помидоры черри, сыр Пармезан, вареные перепелиные яйца, соус ",
-      "price":6.95,
-      "url":"/media/цезарь-салат-с-креветками_1.jpg"
-   },
-   {  
-      "id":1180,
-      "number":"43",
-      "name":"Graikiškos salotos",
-      "descriptionLT":"Fetos sūris, alyvuogės, agurkai, pomidorai,paprika,mėlynieji svogūnai, alyvuogių aliejus",
-      "descriptionRU":"Cыр фета, оливки, огурцы, помидоры,  синий лук, паприка, оливковое масло",
-      "price":3.48,
-      "url":"/media/салат_греческий_1.jpg"
-   },
-   {  
       "id":1181,
       "number":"44",
       "name":"Vištienos kepenėlių salotos",
@@ -430,15 +385,6 @@
       "descriptionRU":"Водоросли «вакаме», кедровые орешки, соус «Терияки»",
       "price":4.30,
       "url":"/media/вакаме-салат_1.jpg"
-   },
-   {  
-      "id":1186,
-      "number":"47",
-      "name":"Wakame salotos su krevetėmis",
-      "descriptionLT":"Jūros dumbliai «Wakame»,\"Teriyaki\" padažas , tigrinės krevetės ",
-      "descriptionRU":"Водоросли «вакамэ», тигровые креветки, соус терияки",
-      "price":7.0,
-      "url":"/media/вакаме-крев.jpg"
    },
    {  
       "id":1191,
@@ -475,42 +421,6 @@
       "descriptionRU":"Лосось, итальянская паста, сливки, чеснок, водка",
       "price":7.00,
       "url":"/media/паста-интернационал_1.jpg"
-   },
-   {  
-      "id":1198,
-      "number":"52",
-      "name":"Sušio-pica su krevetėmis",
-      "descriptionLT":"Ryžiai, sūris, tigrinės krevetės, šefo padažas",
-      "descriptionRU":"Рис, сыр, тигровые креветки, соус от шеф-повара",
-      "price":8.10,
-      "url":"/media/пицца-с-креветкой.jpg"
-   },
-   {  
-      "id":1199,
-      "number":"53",
-      "name":"Sušio-pica su sūriu",
-      "descriptionLT":"Ryžiai, sūris, mėlynasis pelėsinis sūris, šefo padažas",
-      "descriptionRU":"Рис, сыр, голубой сыр, соус от шеф-повара",
-      "price":5.20,
-      "url":"/media/пицца-с-сыром.jpg"
-   },
-   {  
-      "id":1200,
-      "number":"54",
-      "name":"Sušio-pica su su lašiša",
-      "descriptionLT":"Ryžiai, sūris, cukinija, lašišos filė, šefo padažas",
-      "descriptionRU":"Рис, сыр, цукини, филе лосося, соус от шеф-повара",
-      "price":5.50,
-      "url":"/media/пицца-с-лососем_1.jpg"
-   },
-   {  
-      "id":1201,
-      "number":"55",
-      "name":"Sušio-pica su vištiena",
-      "descriptionLT":"Ryžiai, vištienos krūtinėlė, ananasai, sūris, šefo padažas",
-      "descriptionRU":"Рис, куриное филе, ананас, сыр, соус от шеф-повара\r\n",
-      "price":4.30,
-      "url":"/media/пицца-с-ананасом.jpg"
    },
    {  
       "id":1204,
