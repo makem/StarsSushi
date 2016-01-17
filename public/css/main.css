@@ -1091,7 +1091,8 @@ table tbody td:first-child + td + td p
 .order-now
 {
     height: 48px;
-    width: 131px;
+    width: 150px;
+    border-radius: 15px;
     display: inline-block;
     margin-right: 100px;
     margin-bottom: 50px;
