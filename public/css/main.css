@@ -578,6 +578,7 @@ h3
     display: inline-block;
     height: 200px;
     width: 100px;
+    margin-left: 1px;
     background: #000 url('../images/nav-prev.png') no-repeat center;
     cursor: pointer;
 }
@@ -742,7 +743,7 @@ p#details-total-price span
 #nutrition-info
 {
     display: inline-block;
-    width: 191px;
+    width: 188px;
     height: 200px;
     font-size: 13px;
     vertical-align: top;
@@ -1256,7 +1257,7 @@ text-align: center;
 
 .header-text .sub-text{
 font-size: 12pt;
-margin-top: 20px;
+margin-top: 20px; line-height: 23px;
 }
 
 .flags{
@@ -1337,4 +1338,13 @@ margin-top: 20px;
     color: rgb(221, 157, 37);
     border-radius: 5px;
 	font-weight: bold;
+}
+
+.attention {
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 15px;
+    border-bottom: 1px solid #535353;
 }

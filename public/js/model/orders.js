@@ -183,8 +183,11 @@
 
     });
 
+    $scope.showDashboard = function(){
+        $scope.viewMode = 'main';
 
-    $scope.viewMode = 'main';
+    };
+    $scope.showDashboard();
     $scope.setRuLanguage = function () {
         $scope.L = ru;
     };
@@ -227,8 +230,9 @@ var lt = {
     entranceCode: 'Laiptinės durų kodas',
     addressLine: 'Tiltų g., 6 ( įėjimas iš Kepėjų g.), Klaipėda',
     orderRegistered: 'AČIŪ,JŪSŲ UŽSAKYMAS PRIIMTAS APDOROJIMUI.NETRUKUS SU JUMIS SUSISIEKS MŪSŲ DISPEČERIS.',
-    minOrder: 'Minimali užsakymo suma - 10 EUR',
-    timeDelivery: 'Užsakymai priimami kasdien nuo 11 iki 22 valandos'
+    minOrder: 'Minimali užsakymo suma - 10 EUR. Užsakymui viršijus 25 EUR dovanojame hosomaki su daržovėmis 8 vnt.',
+    timeDelivery: 'Užsakymai priimami kasdien nuo 11 iki 22 valandos',
+    attention: 'Užsisakius sušius, kiekvienam asmeniui lazdelės, imbieras, wasabi - nemokamai!'
 };
 
 var ru = {
@@ -257,6 +261,7 @@ var ru = {
     entranceCode: 'Код подъезда',
     addressLine: 'Тилту ул.,6(вход с Keпėю ул.),Клайпеда',
     orderRegistered: 'Ваш заказ принят на обработку. Ожидайте звонка диспетчера. Спасибо :)',
-    minOrder: 'Минимальная сумма заказа- 10 EUR',
-    timeDelivery: 'Время приема заказов- ежедневно с 11 до 22 часов'
+    minOrder: 'Минимальная сумма заказа- 10 Евро. При заказе на сумму более 25 евро - подарок: хосомаки с овощами!',
+    timeDelivery: 'Время приема заказов- ежедневно с 11 до 22 часов',
+    attention: 'Внимание! В стоимость одного набора роллов БЕСПЛАТНО входят : палочки, имбирь,васаби,соевый соус!'
 };
