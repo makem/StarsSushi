@@ -232,7 +232,7 @@ var lt = {
     orderRegistered: 'AČIŪ,JŪSŲ UŽSAKYMAS PRIIMTAS APDOROJIMUI.NETRUKUS SU JUMIS SUSISIEKS MŪSŲ DISPEČERIS.',
     minOrder: 'Minimali užsakymo suma - 10 EUR. Užsakymui viršijus 25 EUR dovanojame hosomaki su daržovėmis 8 vnt.',
     timeDelivery: 'Užsakymai priimami kasdien nuo 11 iki 22 valandos',
-    attention: 'Užsisakius sušius, kiekvienam asmeniui lazdelės, imbieras, wasabi - nemokamai!'
+    attention: 'Atsiprašome, ryšium su patalpų remontu iki gegužės 1d. užsakymai nepriimami.'
 };
 
 var ru = {
@@ -263,5 +263,5 @@ var ru = {
     orderRegistered: 'Ваш заказ принят на обработку. Ожидайте звонка диспетчера. Спасибо :)',
     minOrder: 'Минимальная сумма заказа- 10 Евро. При заказе на сумму более 25 евро - подарок: хосомаки с овощами!',
     timeDelivery: 'Время приема заказов- ежедневно с 11 до 22 часов',
-    attention: 'Внимание! В стоимость одного набора роллов БЕСПЛАТНО входят : палочки, имбирь,васаби,соевый соус!'
+    attention: 'Внимание! В связи с ремонтом помещения,заказы не принимаются до 1 мая. Приносим свои извинения.'
 };
