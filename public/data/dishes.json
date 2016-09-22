@@ -8,8 +8,7 @@
       "price":23.00,
       "url":"/media/tort_sushi.jpg"
    },
-   
-      {  
+         {  
       "id":1102,
       "number":"28",
       "name":"RINKINYS STARS № 3 užkepti",
@@ -81,7 +80,7 @@
       "price":4.30,
       "url":"/media/филадельфия.jpg"
    },
-      {  
+   {  
       "id":1077,
       "number":"11",
       "name":"Aliaska",
@@ -130,7 +129,7 @@
       "id":1082,
       "number":"16",
       "name":"Sake Tizu",
-      "descriptionLT":''Tobiko ikrai, sūris, lašiša, agurkai- viso 8 vnt.'',
+      "descriptionLT":"Tobiko ikrai, sūris, lašiša, agurkai- viso 8 vnt.",
       "descriptionRU":"Икра тобико, сыр сливочный, лосось, огурец -всего 8 кус.",
       "price":4.30,
       "url":"/media/тай.jpg"
@@ -270,7 +269,7 @@
       "price":5.20,
       "url":"/media/суп-бабушкин_1.jpg"
    },
-       {  
+   {  
       "id":1184,
       "number":"46",
       "name":"Jūros dumblių salotos",
@@ -279,7 +278,7 @@
       "price":3.50,
       "url":"/media/вакаме-салат_1.jpg"
    },
-      {  
+   {  
       "id":1208,
       "number":"58",
       "name":"Hosomaki su agurkais",
@@ -288,7 +287,7 @@
       "price":2.30,
       "url":"/media/хосо-с-огурцом.jpg"
    },
-      {  
+   {  
       "id":1210,
       "number":"60",
       "name":"Hosomaki su lašiša",
@@ -297,7 +296,7 @@
       "price":2.90,
       "url":"/media/хосо-с-лососем.jpg"
    },
-      {  
+   {  
       "id":1212,
       "number":"62",
       "name":"Hosomaki su krabų lazdelėmis",
