@@ -274,7 +274,7 @@
       "number":"46",
       "name":"Jūros dumblių salotos",
       "descriptionLT":"Žalieji jūros dumbliai, rudieji jūros dumbliai, kedro riešutai, riešutų padažas",
-      "descriptionRU":"Водоросли «вакаме», водоросли "чука", кедровые орешки, соус ореховый",
+      "descriptionRU":"Водоросли «вакаме», водоросли «чука», кедровые орешки, соус ореховый",
       "price":3.50,
       "url":"/media/вакаме-салат_1.jpg"
    },
@@ -282,7 +282,7 @@
       "id":1208,
       "number":"58",
       "name":"Hosomaki su agurkais",
-      "descriptionLT":"Viso 8 vnt.\ Всего 8 кус.",
+      "descriptionLT":"Viso 8 vnt. Всего 8 кус.",
       "descriptionRU":"",
       "price":2.30,
       "url":"/media/хосо-с-огурцом.jpg"
@@ -291,7 +291,7 @@
       "id":1210,
       "number":"60",
       "name":"Hosomaki su lašiša",
-      "descriptionLT":"Viso 8 vnt.\ Всего 8 кус.",
+      "descriptionLT":"Viso 8 vnt. Всего 8 кус.",
       "descriptionRU":"",
       "price":2.90,
       "url":"/media/хосо-с-лососем.jpg"
@@ -300,7 +300,7 @@
       "id":1212,
       "number":"62",
       "name":"Hosomaki su krabų lazdelėmis",
-      "descriptionLT":"Viso 8 vnt.\Всего 8 кус.",
+      "descriptionLT":"Viso 8 vnt.Всего 8 кус.",
       "descriptionRU":"",
       "price":2.30,
       "url":"/media/хосо-с-крабом.jpg"
@@ -309,7 +309,7 @@
       "id":1213,
       "number":"63",
       "name":"Hosomaki su krevetėmis",
-      "descriptionLT":"Viso 8 vnt.\Всего 8 кус.",
+      "descriptionLT":"Viso 8 vnt.Всего 8 кус.",
       "descriptionRU":"",
       "price":2.90,
       "url":"/media/hosomaki.jpg"
