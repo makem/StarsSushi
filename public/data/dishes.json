@@ -2,27 +2,27 @@
    {  
       "id":1226,
       "number":"001",
-      "name":"Sušių tortas",
-      "descriptionLT":"Aliaska,Filadelpija,Kalifornia De Luxe,Bonito maki,Krabo rollas,Sake Tizu - viso 48 vnt.'',
-      "descriptionRU":''Aliaska, Filadelphia, Kalifornia De Luxe, Bonito maki, Krabo rollas, Sake Tizu - всего 48 кусочков.'',
+      "name":"Sušių \"tortas",
+      "descriptionLT":"Aliaska,Filadelpija,Kalifornia De Luxe,Bonito maki,Krabo rollas,Sake Tizu - viso 48 vnt.",
+      "descriptionRU":"Aliaska, Filadelphia, Kalifornia De Luxe, Bonito maki, Krabo rollas, Sake Tizu - всего 48 кусочков.",
       "price":23.00,
       "url":"/media/tort_sushi.jpg"
    },
-         {  
+   {  
       "id":1102,
       "number":"28",
-      "name":''RINKINYS STARS № 3 užkepti''',
-      "descriptionLT":''AŠTRIUS MAKI, KAECI, Cheese Maki-viso 24 vnt.'',
-      "descriptionRU":''Запеченые: Спайси маки,Каеси,Чиз маки-всего 24 кус.'',
+      "name":"RINKINYS STARS № 3 užkepti",
+      "descriptionLT": "AŠTRIUS MAKI, KAECI, Cheese Maki-viso 24 vnt.",
+      "descriptionRU": "Запеченые: Спайси маки,Каеси,Чиз маки-всего 24 кус.",
       "price":14.00,
       "url":"/media/stars3.png"
    },
    {  
       "id":1104,
       "number":"29",
-      "name":''RINKINYS STARS № 4''',
-      "descriptionLT":''FILADELFIJA, Krabo rollas, KALIFORNIJA DE LUXE -viso 24 vnt.'',
-      "descriptionRU":''Филадельфия,Краб ролл,Калифорния де Люкс- всего 24 кус.'',
+      "name":"RINKINYS STARS № 4",
+      "descriptionLT":"FILADELFIJA, Krabo rollas, KALIFORNIJA DE LUXE -viso 24 vnt.",
+      "descriptionRU":"Филадельфия,Краб ролл,Калифорния де Люкс- всего 24 кус.",
       "price":12.00,
       "url":"/media/set4.jpg"
    },
