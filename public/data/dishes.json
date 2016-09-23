@@ -95,7 +95,7 @@
       "name":"Kalifornia De Luxe",
       "descriptionLT":"Masago ikrai, sūris, krevetės, paprika- viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр сливочный, креветка, паприка-всего 8 кус.",
-      "price":5.50,
+      "price":5.40,
       "url":"/media/калифорния-делюкс.jpg"
    },
    {  
@@ -129,7 +129,7 @@
       "id":1082,
       "number":"16",
       "name":"Sake Tizu",
-      "descriptionLT":"Tobiko ikrai, sūris, lašiša, agurkai- viso 8 vnt.",
+      "descriptionLT":"Masago ikrai, sūris, lašiša, agurkai- viso 8 vnt.",
       "descriptionRU":"Икра тобико, сыр сливочный, лосось, огурец -всего 8 кус.",
       "price":4.30,
       "url":"/media/тай.jpg"
@@ -194,7 +194,7 @@
       "name":"Las Vegas (užkepti)",
       "descriptionLT":"Masago ikrai, sūris, krabų lazdelės,šukutės, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр слвочный, крабовые палочки,гребешок, спайс соус -всего 8 кус.",
-      "price":7.80,
+      "price":7.50,
       "url":"/media/лас-вегас.jpg"
    },
    {  
@@ -203,7 +203,7 @@
       "name":"Toronto (užkepti)",
       "descriptionLT":"Lašiša, šukutės, aštrus padažas - viso 6 vnt.",
       "descriptionRU":"Лосось, гребешок, спайс соус -всего 6 кус.",
-      "price":7.80,
+      "price":7.50,
       "url":"/media/торонто.jpg"
    },
    {  
@@ -212,7 +212,7 @@
       "name":"Jūros Vėjas (užkepti)",
       "descriptionLT":"Masago ikrai, šukutės, krevetės, sūris - viso 8 vnt.",
       "descriptionRU":"Икра масаго, гребешок, креветки, сыр сливочный - всего 8  кус.",
-      "price":7.80,
+      "price":7.50,
       "url":"/media/ветер-с-моря.png"
    },
       {  
