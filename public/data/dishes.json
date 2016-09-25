@@ -1,7 +1,7 @@
 ﻿[  
    {  
       "id":1226,
-      "number":"001",
+      "number":"01",
       "name":"Sušių tortas",
       "descriptionLT":"Aliaska,Filadelpija,Kalifornia De Luxe,Bonito maki,Krabo rollas,Sake Tizu - viso 48 vnt.",
       "descriptionRU":"Aliaska, Filadelphia, Kalifornia De Luxe, Bonito maki, Krabo rollas, Sake Tizu - всего 48 кусочков.",
@@ -10,7 +10,7 @@
    },
    {  
       "id":1102,
-      "number":"28",
+      "number":"02",
       "name":"RINKINYS STARS № 3 užkepti",
       "descriptionLT": "AŠTRIUS MAKI, KAECI, Cheese Maki-viso 24 vnt.",
       "descriptionRU": "Запеченые: Спайси маки,Каеси,Чиз маки-всего 24 кус.",
@@ -19,7 +19,7 @@
    },
    {  
       "id":1104,
-      "number":"29",
+      "number":"03",
       "name":"RINKINYS STARS № 4",
       "descriptionLT":"FILADELFIJA, Krabo rollas, KALIFORNIJA DE LUXE -viso 24 vnt.",
       "descriptionRU":"Филадельфия,Краб ролл,Калифорния де Люкс- всего 24 кус.",
@@ -28,7 +28,7 @@
    },
    {  
       "id":1228,
-      "number":"002",
+      "number":"04",
       "name":"Rinkinys STARS № 8 (aštrus)",
       "descriptionLT":"«Rollas» su lašiša,su krevetemis, su krabų lazdelemis - viso 24 vnt.",
       "descriptionRU":"Острые роллы с лососем , с креветкой, с крабовой палочкой - всего 24 кус.",
@@ -37,16 +37,16 @@
    },
       {  
       "id":1070,
-      "number":"4",
-      "name":"Igai Jaki/ Aštrus Igai Jaki",
-      "descriptionLT":"Karštos midijos su Jaki padažu",
-      "descriptionRU":"Мидии в яки-соусе",
+      "number":"11",
+      "name":"Ebi Tempura",
+      "descriptionLT":"Tempuroje paniruotos keptos krevetės",
+      "descriptionRU":"Креветки, запеченые в кляре теппура",
       "price":6.00,
       "url":"/media/унай-яги.jpg"
    },
       {  
       "id":1072,
-      "number":"6",
+      "number":"21",
       "name":"Bonito Maki",
       "descriptionLT":"Sūris, lašiša, tuno drožlės - viso 8 vnt.",
       "descriptionRU":"Сыр сливочный, лосось,стружка тунца - всего 8 кус.",
@@ -55,7 +55,7 @@
    },
    {  
       "id":1073,
-      "number":"7",
+      "number":"22",
       "name":"Kalifornia Masago",
       "descriptionLT":"Masago ikrai, krabų lazdelės, agurkai - viso 8 vnt.",
       "descriptionRU":"Икра масаго, крабовые палочки, огурец-всего 8 кус.",
@@ -64,7 +64,7 @@
    },
    {  
       "id":1074,
-      "number":"8",
+      "number":"23",
       "name":"Bravo Maki(aštrus)",
       "descriptionLT":"Lašiša, krabų lazdelės, agurkai,aštrus padažas- viso 8 vnt.",
       "descriptionRU":"Крабовые палочки, лосось, огурец, спайс соус-всего 8 кус.",
@@ -73,7 +73,7 @@
    },
    {  
       "id":1075,
-      "number":"9",
+      "number":"24",
       "name":"Filadelpija",
       "descriptionLT":"Lašiša, sūris, agurkai - viso 8 vnt.",
       "descriptionRU":"Лосось, сыр сливочный, огурец - всего 8 кус.",
@@ -82,7 +82,7 @@
    },
    {  
       "id":1077,
-      "number":"11",
+      "number":"25",
       "name":"Aliaska",
       "descriptionLT":"Lašiša, agurkai, masago ikrai - viso 8 vnt.",
       "descriptionRU":"Лосось, огурец, икра масаго - всего 8 кус.",
@@ -91,7 +91,7 @@
    },
    {  
       "id":1078,
-      "number":"12",
+      "number":"26",
       "name":"Kalifornia De Luxe",
       "descriptionLT":"Masago ikrai, sūris, krevetės, paprika- viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр сливочный, креветка, паприка-всего 8 кус.",
@@ -100,7 +100,7 @@
    },
    {  
       "id":1079,
-      "number":"13",
+      "number":"27",
       "name":"Žalioji upė",
       "descriptionLT":"Šalto rūkymo lašiša, pomidorai, krabų lazdelės, sūris, krapai, svogūnų laiškai - viso 8 vnt.",
       "descriptionRU":"Лосось копченый,томат, крабовые палочки, сыр сливочный,укроп,лук зеленый- всего 8 кус.",
@@ -109,7 +109,7 @@
    },
    {  
       "id":1080,
-      "number":"14",
+      "number":"28",
       "name":"Krabo rollas",
       "descriptionLT":"Krabų lazdelės,  sūris, agurkai,sezamo sėklos - viso 8 vnt.",
       "descriptionRU":"Крабовые палочки, огурец, сыр сливочный ,кунжут- всего 8 кус.",
@@ -118,7 +118,7 @@
    },
    {  
       "id":1081,
-      "number":"15",
+      "number":"29",
       "name":"Kani Ebi Maki",
       "descriptionLT":"Krabų lazdelės, agurkai, krevetės, Jaki padažas- viso 8 vnt.",
       "descriptionRU":"Крабовые палочки, огурец, креветка,яки соус-всего 8 кус.",
@@ -127,7 +127,7 @@
    },
    {  
       "id":1082,
-      "number":"16",
+      "number":"30",
       "name":"Sake Tizu",
       "descriptionLT":"Masago ikrai, sūris, lašiša, agurkai- viso 8 vnt.",
       "descriptionRU":"Икра тобико, сыр сливочный, лосось, огурец -всего 8 кус.",
@@ -136,7 +136,7 @@
    },
    {  
       "id":1083,
-      "number":"17",
+      "number":"31",
       "name":"Eko Fila",
       "descriptionLT":"Masago ikrai, sūris, agurkai, lašiša - viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр сливочныйм, огурец, лосось - всего 8 кус.",
@@ -145,7 +145,7 @@
    },
    {  
       "id":1084,
-      "number":"18",
+      "number":"51",
       "name":"Kaeci (užkepti,aštrus)",
       "descriptionLT":"Lašiša, midijos, sūris, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Лосось, мидии, сыр сливочный, спайс соус-всего 8 кус.",
@@ -154,7 +154,7 @@
    },
    {  
       "id":1085,
-      "number":"19",
+      "number":"52",
       "name":"Jaki Maki (užkepti)",
       "descriptionLT":"Lašiša, sūris, sezamo sėklos, masago ikrai - viso 8 vnt.",
       "descriptionRU":"Лосось, сыр сливочный, кунжут , икра масаго -всего 8 кус.",
@@ -163,7 +163,7 @@
    },
    {  
       "id":1086,
-      "number":"20",
+      "number":"53",
       "name":"Aštrus Maki (užkepti)",
       "descriptionLT":"Masago ikrai, lašiša, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, лосось, спайс соус- всего 8 кус.",
@@ -172,7 +172,7 @@
    },
    {  
       "id":1087,
-      "number":"21",
+      "number":"54",
       "name":"Sake Anigara (užkepti)",
       "descriptionLT":"Krabų lazdelės, lašiša, pomidorai, sūris - viso 8 vnt.",
       "descriptionRU":"Крабовые палочки, лосось, помидор, сыр сливочный-  viso 8 vnt.",
@@ -181,7 +181,7 @@
    },
    {  
       "id":1088,
-      "number":"22",
+      "number":"55",
       "name":"Šiitaki Maki (užkepti,aštrus)",
       "descriptionLT":"\"Šiitaki\" grybai, šukutės, sūris,aštrus padažas, Jaki padažas - viso 6 vnt.",
       "descriptionRU":"Грибы шиитаки, гребешок,сыр сливочный, спайс соус, яки соус- всего 6 кус.",
@@ -190,7 +190,7 @@
    },
    {  
       "id":1089,
-      "number":"23",
+      "number":"56",
       "name":"Las Vegas (užkepti,aštrus)",
       "descriptionLT":"Masago ikrai, sūris, krabų lazdelės,kalmaras, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, сыр сливочный, крабовые палочки,кальмар, спайс соус -всего 8 кус.",
@@ -199,7 +199,7 @@
    },
    {  
       "id":1090,
-      "number":"24",
+      "number":"57",
       "name":"Kitojama (užkepti)",
       "descriptionLT":"Lašiša, sūris, masago ikrai, “Mocarella” sūris, krabų lazdelės, «Jaki» padažas - viso 6 vnt.",
       "descriptionRU":"Лосось, сыр сливочный,икра масаго,сыр Моцарелла, крабовые палочки, яки соус -всего 6 кус.",
@@ -208,7 +208,7 @@
    },
    {  
       "id":1091,
-      "number":"25",
+      "number":"58",
       "name":"Red Sea(užkepti)",
       "descriptionLT":"Masago ikrai,krevetės, sūris - viso 8 vnt.",
       "descriptionRU":"Икра масаго,креветки, сыр сливочный - всего 8  кус.",
@@ -217,7 +217,7 @@
    },
       {  
       "id":1093,
-      "number":"27",
+      "number":"59",
       "name":"Makimono  (užkepti)",
       "descriptionLT":"Lašiša, sūris, masago ikrai, «Jaki» padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, лосось, сыр сливочный, яки соус -всего 8 кус.",
@@ -226,7 +226,7 @@
    },
    {  
       "id":1150,
-      "number":"32",
+      "number":"60",
       "name":"Cheese Maki",
       "descriptionLT":"Krevetės, sūris, “Mocarella” sūris, paniruotė -viso 8 vnt.",
       "descriptionRU":"Кеветки , сыр сливочный ,сыр Моцарелла ,панировка -  всего 8 кус.",
@@ -235,7 +235,7 @@
    },
    {  
       "id":1154,
-      "number":"30",
+      "number":"32",
       "name":"Fifti (aštrus)",
       "descriptionLT":"Masago ikrai, krabų lazdelės, , pomidorai, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго,крабовые палочки , помидор , спайс соус -всего 8 кус.",
@@ -244,7 +244,7 @@
    },
    {  
       "id":1156,
-      "number":"31",
+      "number":"33",
       "name":"Jasai Maki",
       "descriptionLT":"(Pomidorai, agurkai, salotos, paprika - viso 8 vnt.",
       "descriptionRU":"Помидор ,огурец, салат ,перец -всего 8 кус.",
@@ -253,7 +253,7 @@
    },
    {  
       "id":1162,
-      "number":"36",
+      "number":"34",
       "name":"Vegetariškas",
       "descriptionLT":"Agurkai, salotos «Wakame», sezamo sėklos -viso 8 vnt.",
       "descriptionRU":"Огурец , вакаме салат , кунжут - всего 8 кус.",
@@ -262,7 +262,7 @@
    },
    {  
       "id":1165,
-      "number":"37",
+      "number":"61",
       "name":"Ebi Anigara (užkepti,aštrus)",
       "descriptionLT":"Krevetės, lašiša, agurkai, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Креветки ,лосось ,огурец , спайс соус - всего 8 кус",
@@ -271,7 +271,7 @@
    },
    {  
       "id":1184,
-      "number":"46",
+      "number":"12",
       "name":"Jūros dumblių salotos",
       "descriptionLT":"Žalieji jūros dumbliai, rudieji jūros dumbliai, kedro riešutai, riešutų padažas",
       "descriptionRU":"Водоросли «вакаме», водоросли «чука», кедровые орешки, соус ореховый",
@@ -280,7 +280,7 @@
    },
    {  
       "id":1208,
-      "number":"58",
+      "number":"35",
       "name":"Hosomaki su agurkais",
       "descriptionLT":"Viso 8 vnt. Всего 8 кус.",
       "descriptionRU":"",
@@ -289,7 +289,7 @@
    },
    {  
       "id":1210,
-      "number":"60",
+      "number":"36",
       "name":"Hosomaki su lašiša",
       "descriptionLT":"Viso 8 vnt. Всего 8 кус.",
       "descriptionRU":"",
@@ -298,7 +298,7 @@
    },
    {  
       "id":1212,
-      "number":"62",
+      "number":"37",
       "name":"Hosomaki su krabų lazdelėmis",
       "descriptionLT":"Viso 8 vnt.Всего 8 кус.",
       "descriptionRU":"",
@@ -307,7 +307,7 @@
    },
    {  
       "id":1213,
-      "number":"63",
+      "number":"38",
       "name":"Hosomaki su krevetėmis",
       "descriptionLT":"Viso 8 vnt.Всего 8 кус.",
       "descriptionRU":"",
