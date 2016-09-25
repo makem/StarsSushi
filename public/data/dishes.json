@@ -341,4 +341,85 @@
       "price":1.30,
       "url":"/media/hosomaki.jpg"
    }, 
+    {  
+      "id":1217,
+      "number":"104",
+      "name":"7UP 0,33",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   }, 
+    {  
+      "id":1218,
+      "number":"105",
+      "name":"Mirinda 0,33",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   }, 
+      {  
+      "id":1219,
+      "number":"106",
+      "name":"Dr.Pepper 0,33",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   },
+    {  
+      "id":1220,
+      "number":"107",
+      "name":"Coca-Cola 0,25",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.50,
+      "url":"/media/hosomaki.jpg"
+   }, 
+    {  
+      "id":1221,
+      "number":"108",
+      "name":"Royal Club Tonik 0,2",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   }, 
+     {  
+      "id":1222,
+      "number":"109",
+      "name":"Royal Club Ginger Ale 0,2",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   }, 
+    {  
+      "id":1223,
+      "number":"110",
+      "name":"Stalo vanduo VICHY 0,5 Gazuotas",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.20,
+      "url":"/media/hosomaki.jpg"
+   }, 
+    {  
+      "id":1224,
+      "number":"111",
+      "name":"Stalo vanduo VICHY 0,5 Gazuotas Lemon",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.20,
+      "url":"/media/hosomaki.jpg"
+   }, 
+    {  
+      "id":1225,
+      "number":"112",
+      "name":"Stalo vanduo VICHY 0,5 Negazuotas",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.20,
+      "url":"/media/hosomaki.jpg"
+   }, 
 ]
