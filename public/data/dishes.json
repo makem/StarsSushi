@@ -65,7 +65,7 @@
    {  
       "id":1074,
       "number":"8",
-      "name":"Bravo Maki",
+      "name":"Bravo Maki(aštrus)",
       "descriptionLT":"Lašiša, krabų lazdelės, agurkai,aštrus padažas- viso 8 vnt.",
       "descriptionRU":"Крабовые палочки, лосось, огурец, спайс соус-всего 8 кус.",
       "price":3.80,
@@ -146,10 +146,10 @@
    {  
       "id":1084,
       "number":"18",
-      "name":"Kaeci (užkepti)",
+      "name":"Kaeci (užkepti,aštrus)",
       "descriptionLT":"Lašiša, midijos, sūris, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Лосось, мидии, сыр сливочный, спайс соус-всего 8 кус.",
-      "price":5.20,
+      "price":4.70,
       "url":"/media/каеси.jpg"
    },
    {  
@@ -167,7 +167,7 @@
       "name":"Aštrus Maki (užkepti)",
       "descriptionLT":"Masago ikrai, lašiša, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, лосось, спайс соус- всего 8 кус.",
-      "price":5.20,
+      "price":4.80,
       "url":"/media/спайси-маки.jpg"
    },
    {  
@@ -182,37 +182,37 @@
    {  
       "id":1088,
       "number":"22",
-      "name":"Šiitaki Maki (užkepti)",
+      "name":"Šiitaki Maki (užkepti,aštrus)",
       "descriptionLT":"\"Šiitaki\" grybai, šukutės, sūris,aštrus padažas, Jaki padažas - viso 6 vnt.",
       "descriptionRU":"Грибы шиитаки, гребешок,сыр сливочный, спайс соус, яки соус- всего 6 кус.",
-      "price":5.20,
+      "price":4.80,
       "url":"/media/шиитаки.jpg"
    },
    {  
       "id":1089,
       "number":"23",
-      "name":"Las Vegas (užkepti)",
-      "descriptionLT":"Masago ikrai, sūris, krabų lazdelės,šukutės, aštrus padažas - viso 8 vnt.",
-      "descriptionRU":"Икра масаго, сыр слвочный, крабовые палочки,гребешок, спайс соус -всего 8 кус.",
-      "price":7.50,
+      "name":"Las Vegas (užkepti,aštrus)",
+      "descriptionLT":"Masago ikrai, sūris, krabų lazdelės,kalmaras, aštrus padažas - viso 8 vnt.",
+      "descriptionRU":"Икра масаго, сыр сливочный, крабовые палочки,кальмар, спайс соус -всего 8 кус.",
+      "price":5.50,
       "url":"/media/лас-вегас.jpg"
    },
    {  
       "id":1090,
       "number":"24",
-      "name":"Toronto (užkepti)",
-      "descriptionLT":"Lašiša, šukutės, aštrus padažas - viso 6 vnt.",
-      "descriptionRU":"Лосось, гребешок, спайс соус -всего 6 кус.",
-      "price":7.50,
+      "name":"Kitojama (užkepti)",
+      "descriptionLT":"Lašiša, sūris, masago ikrai, “Mocarella” sūris, krabų lazdelės, «Jaki» padažas - viso 6 vnt.",
+      "descriptionRU":"Лосось, сыр сливочный,икра масаго,сыр Моцарелла, крабовые палочки, яки соус -всего 6 кус.",
+      "price":5.00,
       "url":"/media/торонто.jpg"
    },
    {  
       "id":1091,
       "number":"25",
-      "name":"Jūros Vėjas (užkepti)",
-      "descriptionLT":"Masago ikrai, šukutės, krevetės, sūris - viso 8 vnt.",
-      "descriptionRU":"Икра масаго, гребешок, креветки, сыр сливочный - всего 8  кус.",
-      "price":7.50,
+      "name":"Red Sea(užkepti)",
+      "descriptionLT":"Masago ikrai,krevetės, sūris - viso 8 vnt.",
+      "descriptionRU":"Икра масаго,креветки, сыр сливочный - всего 8  кус.",
+      "price":5.50,
       "url":"/media/ветер-с-моря.png"
    },
       {  
@@ -221,7 +221,7 @@
       "name":"Makimono  (užkepti)",
       "descriptionLT":"Lašiša, sūris, masago ikrai, «Jaki» padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго, лосось, сыр сливочный, яки соус -всего 8 кус.",
-      "price":5.20,
+      "price":4.80,
       "url":"/media/мексика.jpg"
    },
    {  
@@ -236,7 +236,7 @@
    {  
       "id":1154,
       "number":"30",
-      "name":"Fifti",
+      "name":"Fifti (aštrus)",
       "descriptionLT":"Masago ikrai, krabų lazdelės, , pomidorai, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Икра масаго,крабовые палочки , помидор , спайс соус -всего 8 кус.",
       "price":4.30,
@@ -263,7 +263,7 @@
    {  
       "id":1165,
       "number":"37",
-      "name":"Ebi Anigara (užkepti)",
+      "name":"Ebi Anigara (užkepti,aštrus)",
       "descriptionLT":"Krevetės, lašiša, agurkai, aštrus padažas - viso 8 vnt.",
       "descriptionRU":"Креветки ,лосось ,огурец , спайс соус - всего 8 кус",
       "price":5.20,
