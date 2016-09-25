@@ -313,5 +313,32 @@
       "descriptionRU":"",
       "price":2.90,
       "url":"/media/hosomaki.jpg"
-   }
+   },
+   {  
+      "id":1214,
+      "number":"101",
+      "name":"Schweppes Orange 0,33",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   }, 
+    {  
+      "id":1215,
+      "number":"102",
+      "name":"Schweppes Bitter Lemon 0,33",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   }, 
+     {  
+      "id":1216,
+      "number":"103",
+      "name":"Pepsi 0,33",
+      "descriptionLT":"",
+      "descriptionRU":"",
+      "price":1.30,
+      "url":"/media/hosomaki.jpg"
+   }, 
 ]
