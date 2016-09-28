@@ -26,7 +26,7 @@ app.use('/dishes', dishes);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
-    res.sendfile('./public/index.html');
+    res.sendFile('./public/index.html');
 });
 
 // error handlers

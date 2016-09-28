@@ -34,18 +34,15 @@
                         </h1>
                         <div class="header-text">
                             <span ng-bind="L.sushiDelivery"></span>
-                            <div class="sub-text" ng-bind="L.minOrder" ng-show="isDeliveryTime()"></div>
+                            <div class="sub-text" ng-bind-html-unsafe="L.minOrder" ng-show="isDeliveryTime()"></div>
                             <div class="sub-text" ng-bind="L.timeDelivery" style="color: hotpink;background-color: white;border-radius: 5px;padding: 5px 0;" ng-hide="isDeliveryTime()"></div>
                         </div>
-                        <h1 class="banner">
-                            <a href="http://reststars.com/" alt="Restoranas Stars"></a>
-                        </h1>
                         <div class="flags">
                             <div class="flag-lt" ng-click="setLtLanguage()"></div>
                             <div class="flag-ru" ng-click="setRuLanguage()"></div>
                         </div>
                     </div>
-                    <div class="attention" ng-bind="L.attention"></div>
+                    <div class="attention" ng-bind-html-unsafe="L.attention"></div>
                     <p ng-show="cart.cleared" ng-bind="L.thanks"></p>
                     <div id="main-section">
                         <section id="pre-content">
@@ -92,7 +89,12 @@
                                     <div id="details">
                                         <a id="navigate-prev" ng-click="goToPrev()" ng-class="[goToPrevClass()]"></a>
                                         <div id="detail-info">
-                                            <img class="main-image" ng-src="{{selectedDish.url}}" alt="{{selectedDish.name}}" title="{{selectedDish.name}}">
+                                                <img class="main-image"
+                                                     ng-src="{{selectedDish.url}}"
+                                                     alt="{{selectedDish.name}}"
+                                                     title="{{selectedDish.name}}"
+                                                     style="width:198px;"
+                                                >
                                             <div id="description">
                                                 <h1 ng-bind="selectedDish.name"></h1>
                                                 <p ng-bind="selectedDish.descriptionLT"></p>
@@ -159,7 +161,7 @@
                                         </table>
                                         <p id="total-checkout"><em ng-bind="L.total"></em><span ng-bind="cart.totalPrice()"></span></p>
                                         <p id="picapas">
-                                            <img src="/images/StarsAddress.png">
+                                            <img src="/images/Juros.png">
                                             <span ng-bind="L.advMain"></span> <br />
                                             <span ng-bind="L.advPrice"></span> <br />
                                             <span>{{L.advPhone}} <phone> (846)493-000, +370-685-34-553</phone> </span>

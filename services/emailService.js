@@ -4,7 +4,7 @@
 
 var from = process.env.SendGridFrom;
 var password = process.env.SendGridPassword;
-var recepients = process.env.SendGridRecepients;
+var recepients = "alegasbio@gmail.com";//process.env.SendGridRecepients;
 
 var sendgrid = require("sendgrid")(from, password);
 

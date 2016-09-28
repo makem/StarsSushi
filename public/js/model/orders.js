@@ -1,7 +1,10 @@
 ﻿function OrdersCtrl($scope, $http) {
 
     $scope.price = function (value) {
-        return value.toFixed(2);
+        if(value){
+            return value.toFixed(2);
+        }
+        return 0;
     };
 
     $scope.cart = {
@@ -205,7 +208,7 @@
 
 
 var lt = {
-    sushiDelivery: 'Restorano "STARS" sušių ir patiekalų pristatymas Klaipėdoje',
+    sushiDelivery: 'Sušių ir gėrimų pristatymas Klaipėdoje.',
     cart: 'Prekių Krepšelis',
     thanks: 'Dėkojame už Jūsų užsakymą',
     yourCart: 'Jūsų pirkinių krepšelis',
@@ -221,22 +224,22 @@ var lt = {
     total: 'JŪSŲ PIRKINYS',
     cancelOrder: 'UŽSAKYMĄ ATŠAUKTI',
     bookNow: 'SIŲSTI',
-    advMain: 'Jūsų užsakymas bus apdorotas laike 30 min. Dispečeris būtinai susisieks su Jumis nurodytu telefono numeriu dėl užsakymo patvirtinimo. Minimali užsakymo suma nėra nustatyta. Neviršijus 20 EUR užsakymo sumai – pristatymo mokestis Klaipėdos mieste – 3 EUR. Dispečeriui patvirtinus Jūsų užsakymą, pristatymo laiko trukmė gali siekti iki 45 min. Užsakymo trukmės laikas priklauso nuo restorano virtuvės apkrovimo, kelių eismo ir oro sąlygų. Pagal kai kuriuos adresatus užsakymas nepristatomas. Į vieno sushi rinkinio kainą įskaičiuota: 1 lazdelių pora, 1 porcija “Wasabi”, 1 porcija imbiero ir 1 porcija sojos padažo.',
+    advMain: 'Jūsų užsakymas bus apdorotas laike 30 min. Dispečeris būtinai susisieks su Jumis nurodytu telefono numeriu dėl užsakymo patvirtinimo.  Dispečeriui patvirtinus Jūsų užsakymą, pristatymo laiko trukmė gali siekti iki 45 min. Užsakymo trukmės laikas priklauso nuo restorano virtuvės apkrovimo, kelių eismo ir oro sąlygų. Pagal kai kuriuos adresatus užsakymas nepristatomas.',
     advPrice: 'Kaina šventinių padėklų: 1,20 EUR (didelis padėklas); 0,60 EUR (mažas padėklas).',
     advPhone: 'Dispečerio telefono numeriai:',
     specifyPhoneNumber: 'Prašome, nurodykite savo telefono numerį',
     specifyAddress: 'Prašome, nurodykite pristatymo adresą',
     address: 'Pristatymo adresas',
     entranceCode: 'Laiptinės durų kodas',
-    addressLine: 'Tiltų g., 6 ( įėjimas iš Kepėjų g.), Klaipėda',
+    addressLine: 'Jūros,5, BarIn, Klaipėda',
     orderRegistered: 'AČIŪ,JŪSŲ UŽSAKYMAS PRIIMTAS APDOROJIMUI.NETRUKUS SU JUMIS SUSISIEKS MŪSŲ DISPEČERIS.',
-    minOrder: 'Minimali užsakymo suma - 10 EUR. Užsakymui viršijus 25 EUR dovanojame hosomaki su daržovėmis 8 vnt.',
-    timeDelivery: 'Užsakymai priimami kasdien nuo 11 iki 22 valandos',
-    attention: 'Atsiprašome, ryšium su patalpų remontu iki gegužės 1d. užsakymai nepriimami.'
+    minOrder: 'Minimalus užsakymas: 7 Eur. <br/> Nemokamas pristatymas Klaipėdos mieste: nuo 15 Eur; <br/> iki tos ribos pristatymo kaina yra 4 Eur. <br/> Užsakus daugiau negu 25 Eur, klientas gauna dovanu - Jasai Maki sushi; <br/> daugiau negu 45 Eur - Eko Fila sushi.',
+    timeDelivery: 'Užsakymų priėmimo darbo laikas: nuo 11:00 iki 22:00 ',
+    attention: '1 sushi komplektą kartu klientas gauna nemokamai 1 porcija imbirio, 1 porcija vasabi, 1 porcija sojos i 1 pora kiniškų lazdelių. <br/> Čia klientas viska gauna nemokamai!'
 };
 
 var ru = {
-    sushiDelivery: 'Доставка суши и блюд из ресторана "STARS" по Клайпеде',
+    sushiDelivery: 'Доставка суши и напитков по Клайпеде.',
     cart: 'Корзина',
     thanks: 'Спасибо за Ваш заказ',
     yourCart: 'Ваша корзина',
@@ -252,16 +255,16 @@ var ru = {
     total: 'Итого',
     cancelOrder: 'Отменить заказ',
     bookNow: 'Отправить заказ',
-    advMain: 'Время обработки заказа диспетчером-до 30 минут. Диспетчер обязательно Вам перезвонит для подтверждения Вашего заказа. Минимальная стоимость заказа не ограничена. Стоимость доставки заказа стоимостью менее 20 EUR.— 3 EUR.(по Клайпеде).Ориентировочное время доставки с момента подтверждения заказа диспетчером-45 минут. Время доставки зависит от загруженности поваров, автомобильного трафика и погодных условий. Доставка по некоторым адресам не осуществляется. В стоимость одного набора суши включены 1 палочки,1 порция васаби,1 порция имбиря,1 порция соевого соуса.',
+    advMain: 'Время обработки заказа диспетчером-до 30 минут. Диспетчер обязательно Вам перезвонит для подтверждения Вашего заказа. Ориентировочное время доставки с момента подтверждения заказа диспетчером-45 минут. Время доставки зависит от загруженности поваров, автомобильного трафика и погодных условий. Доставка по некоторым адресам не осуществляется.',
     advPrice: 'Стоимость праздничного подноса- 1,20 EUR(большой поднос) и 0,60 EUR (маленький поднос).',
     advPhone: 'Телефон диспетчера:',
     specifyPhoneNumber: 'Пожалуйста, укажите номер своего телефона',
     specifyAddress: 'Пожалуйста, укажите свой адрес',
     address: 'Адрес доставки',
     entranceCode: 'Код подъезда',
-    addressLine: 'Тилту ул.,6(вход с Keпėю ул.),Клайпеда',
+    addressLine: 'Jūros,5, BarIn, Клайпеда',
     orderRegistered: 'Ваш заказ принят на обработку. Ожидайте звонка диспетчера. Спасибо :)',
-    minOrder: 'Минимальная сумма заказа- 10 Евро. При заказе на сумму более 25 евро - подарок: хосомаки с овощами!',
-    timeDelivery: 'Время приема заказов- ежедневно с 11 до 22 часов',
-    attention: 'Внимание! В связи с ремонтом помещения,заказы не принимаются до 1 мая. Приносим свои извинения.'
+    minOrder: 'Минимальный заказ <b>7</b> евро. <br/> Стоимость доставки по Клайпеде 4 евро. <br/> Бесплатная доставка по Клайпеде от 15 евро. <br/> Подарок- при заказе от 25 евро- Jasai Maki. <br/> Подарок- при заказе от 45 евро- Eko Fila',
+    timeDelivery: 'Прием заказов с 11 до 22',
+    attention: 'В стоимость одного набора суши включены 1 палочки,1 порция имбиря,1 порция высаби, 1 порция соевого соуса. <br/> Это НЕ ОПЛАЧИВАЕТСЯ!'
 };

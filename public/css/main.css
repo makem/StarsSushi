@@ -52,7 +52,7 @@ h1.logo
 {
     display: inline-block;
     width: 140px;
-    height: 67px;
+    height: 140px;
     background: url('../images/stars-logo.png') 0 0 no-repeat;
     cursor: pointer;
 	background-size: contain;
@@ -65,7 +65,6 @@ h1.banner
     display: inline-block;
     width: 140px;
     height: 84px;
-    background: url('../images/stars-rest.png') 0 0 no-repeat;
 	background-position: right;
     cursor: pointer;
 	background-size: contain;
@@ -1248,7 +1247,7 @@ text-align: center;
 .header-text {
     float: left;
     min-width: 200px;
-	width:530px;
+	width:630px;
 	text-align: center;
     font-size: 19pt;
     color: wheat;
