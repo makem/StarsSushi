@@ -233,7 +233,7 @@ var lt = {
     entranceCode: 'Laiptinės durų kodas',
     addressLine: 'Jūros,5, BarIn, Klaipėda',
     orderRegistered: 'AČIŪ,JŪSŲ UŽSAKYMAS PRIIMTAS APDOROJIMUI.NETRUKUS SU JUMIS SUSISIEKS MŪSŲ DISPEČERIS.',
-    minOrder: 'Minimalus užsakymas: 7 Eur. <br/> Nemokamas pristatymas Klaipėdos mieste: nuo 15 Eur; <br/> iki tos ribos pristatymo kaina yra 4 Eur. <br/> Užsakus daugiau negu 25 Eur, klientas gauna dovanu - Jasai Maki sushi; <br/> daugiau negu 45 Eur - Eko Fila sushi.',
+    minOrder: 'Minimalus užsakymas: 7 Eur. <br/> Nemokamas pristatymas Klaipėdos mieste: nuo 20 Eur; <br/> iki tos ribos pristatymo kaina yra 4 Eur. <br/> Užsakus daugiau negu 25 Eur, klientas gauna dovanu - Jasai Maki sushi; <br/> daugiau negu 45 Eur - Eko Fila sushi.',
     timeDelivery: 'Užsakymų priėmimo darbo laikas: nuo 11:00 iki 22:00 ',
     attention: '1 sushi komplektą kartu klientas gauna nemokamai 1 porcija imbirio, 1 porcija vasabi, 1 porcija sojos i 1 pora kiniškų lazdelių. <br/> Čia klientas viska gauna nemokamai!'
 };
@@ -264,7 +264,7 @@ var ru = {
     entranceCode: 'Код подъезда',
     addressLine: 'Jūros,5, BarIn, Клайпеда',
     orderRegistered: 'Ваш заказ принят на обработку. Ожидайте звонка диспетчера. Спасибо :)',
-    minOrder: 'Минимальный заказ <b>7</b> евро. <br/> Стоимость доставки по Клайпеде 4 евро. <br/> Бесплатная доставка по Клайпеде от 15 евро. <br/> Подарок- при заказе от 25 евро- Jasai Maki. <br/> Подарок- при заказе от 45 евро- Eko Fila',
+    minOrder: 'Минимальный заказ <b>7</b> евро. <br/> Стоимость доставки по Клайпеде 4 евро. <br/> Бесплатная доставка по Клайпеде от 20 евро. <br/> Подарок- при заказе от 25 евро- Jasai Maki. <br/> Подарок- при заказе от 45 евро- Eko Fila',
     timeDelivery: 'Прием заказов с 11 до 22',
     attention: 'В стоимость одного набора суши включены 1 палочки,1 порция имбиря,1 порция высаби, 1 порция соевого соуса. <br/> Это НЕ ОПЛАЧИВАЕТСЯ!'
 };
