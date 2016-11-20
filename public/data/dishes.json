@@ -269,6 +269,15 @@
       "price":5.20,
       "url":"/media/Ebi Anigara.jpg"
    },
+    {  
+      "id":1226,
+      "number":"39",
+      "name":"Kontrastai",
+      "descriptionLT":"Ungurys,krevetė,sūris, paprika - viso 8 vnt.",
+      "descriptionRU":"Угорь,креветка,сыр сливочный,паприка - всего 8 кусочков.",
+      "price":6.10,
+      "url":"/media/Kontrastai.jpg"
+   },
    {  
       "id":1184,
       "number":"12",
@@ -421,16 +430,7 @@
       "descriptionRU":"",
       "price":1.20,
       "url":"/media/vichi_classic.jpg"
-   },
-    {  
-      "id":1226,
-      "number":"39",
-      "name":"Kontrastai",
-      "descriptionLT":"Ungurys,krevetė,sūris, paprika - viso 8 vnt.",
-      "descriptionRU":"Угорь,креветка,сыр сливочный,паприка - всего 8 кусочков.",
-      "price":6.10,
-      "url":"/media/Kontrastai.jpg"
-   },
+   },    
     {  
       "id":1226,
       "number":"40",
