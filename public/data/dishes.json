@@ -49,7 +49,7 @@
       "number":"11",
       "name":"Ebi Tempura",
       "descriptionLT":"Tempuroje paniruotos keptos krevetės",
-      "descriptionRU":"Креветки, запеченые в кляре теппура",
+      "descriptionRU":"Креветки, запеченые в кляре темпура",
       "price":6.00,
       "url":"/media/ebi_tempura.jpg"
    },
@@ -57,8 +57,8 @@
       "id":1072,
       "number":"21",
       "name":"Bonito Maki",
-      "descriptionLT":"Sūris, lašiša, tuno drožlės - viso 8 vnt.",
-      "descriptionRU":"Сыр сливочный, лосось,стружка тунца - всего 8 кус.",
+      "descriptionLT":"Lašiša,sūris,tuno drožlės - viso 8 vnt.",
+      "descriptionRU":"Лосось ,сыр сливочный,стружка тунца - всего 8 кус.",
       "price":3.80,
       "url":"/media/Bonito Maki.jpg"
    },
@@ -66,8 +66,8 @@
       "id":1073,
       "number":"22",
       "name":"Kalifornia Masago",
-      "descriptionLT":"Masago ikrai, krabų lazdelės, agurkai - viso 8 vnt.",
-      "descriptionRU":"Икра масаго, крабовые палочки, огурец-всего 8 кус.",
+      "descriptionLT":"Krabų lazdelės,masago ikrai,agurkai - viso 8 vnt.",
+      "descriptionRU":"Kрабовые палочки,икра масаго, огурец - всего 8 кус.",
       "price":3.50,
       "url":"/media/Kalifornija Masago.jpg"
    },
@@ -102,8 +102,8 @@
       "id":1078,
       "number":"26",
       "name":"Kalifornia De Luxe",
-      "descriptionLT":"Masago ikrai, sūris, krevetės, paprika- viso 8 vnt.",
-      "descriptionRU":"Икра масаго, сыр сливочный, креветка, паприка-всего 8 кус.",
+      "descriptionLT":"Krevetės,masago ikrai, sūris, paprika- viso 8 vnt.",
+      "descriptionRU":"Креветка ,Икра масаго, сыр сливочный, паприка-всего 8 кус.",
       "price":5.40,
       "url":"/media/Kalifornija De Luxe.jpg"
    },
@@ -138,8 +138,8 @@
       "id":1082,
       "number":"30",
       "name":"Sake Tizu",
-      "descriptionLT":"Masago ikrai, sūris, lašiša, agurkai- viso 8 vnt.",
-      "descriptionRU":"Икра тобико, сыр сливочный, лосось, огурец -всего 8 кус.",
+      "descriptionLT":"Lašiša, masago ikrai, sūris, agurkai- viso 8 vnt.",
+      "descriptionRU":"Лосось,икра тобико, сыр сливочный, огурец -всего 8 кус.",
       "price":4.30,
       "url":"/media/Sake Tizu.jpg"
    },
@@ -147,8 +147,8 @@
       "id":1083,
       "number":"31",
       "name":"Eko Fila",
-      "descriptionLT":"Masago ikrai, sūris, agurkai, lašiša - viso 8 vnt.",
-      "descriptionRU":"Икра масаго, сыр сливочныйм, огурец, лосось - всего 8 кус.",
+      "descriptionLT":"Lašiša,masago ikrai, sūris, agurkai - viso 8 vnt.",
+      "descriptionRU":"Лосось ,икра масаго, сыр сливочныйм, огурец - всего 8 кус.",
       "price":4.50,
       "url":"/media/Eko Fila.jpg"
    },
@@ -174,8 +174,8 @@
       "id":1086,
       "number":"53",
       "name":"Aštrus Maki (užkepti)",
-      "descriptionLT":"Masago ikrai, lašiša, aštrus padažas - viso 8 vnt.",
-      "descriptionRU":"Икра масаго, лосось, спайс соус- всего 8 кус.",
+      "descriptionLT":"Lašiša,masago ikrai, aštrus padažas - viso 8 vnt.",
+      "descriptionRU":"Лосось ,икра масаго,спайс соус- всего 8 кус.",
       "price":4.80,
       "url":"/media/Aštrūs Maki.jpg"
    },
@@ -201,8 +201,8 @@
       "id":1089,
       "number":"56",
       "name":"Las Vegasas (užkepti,aštrus)",
-      "descriptionLT":"Masago ikrai, sūris, krabų lazdelės,kalmaras, aštrus padažas - viso 8 vnt.",
-      "descriptionRU":"Икра масаго, сыр сливочный, крабовые палочки,кальмар, спайс соус -всего 8 кус.",
+      "descriptionLT":"Krabų lazdelės,kalmaras,sūris,masago ikrai, aštrus padažas - viso 8 vnt.",
+      "descriptionRU":"Kрабовые палочки,кальмар,икра масаго, сыр сливочный, спайс соус -всего 8 кус.",
       "price":5.50,
       "url":"/media/Las Vegasas.jpg"
    },
@@ -219,8 +219,8 @@
       "id":1091,
       "number":"58",
       "name":"Red Sea(užkepti)",
-      "descriptionLT":"Masago ikrai,krevetės, sūris - viso 8 vnt.",
-      "descriptionRU":"Икра масаго,креветки, сыр сливочный - всего 8  кус.",
+      "descriptionLT":"Krevetės, sūris, masago ikrai - viso 8 vnt.",
+      "descriptionRU":"Kреветки, сыр сливочный? икра масаго - всего 8  кус.",
       "price":5.50,
       "url":"/media/Red sea.jpg"
    },
@@ -229,7 +229,7 @@
       "number":"59",
       "name":"Makimono  (užkepti)",
       "descriptionLT":"Lašiša, sūris, masago ikrai, «Jaki» padažas - viso 8 vnt.",
-      "descriptionRU":"Икра масаго, лосось, сыр сливочный, яки соус -всего 8 кус.",
+      "descriptionRU":"Лосось, сыр сливочный, икра масаго,яки соус -всего 8 кус.",
       "price":4.80,
       "url":"/media/Makimono.jpg"
    },
@@ -264,8 +264,8 @@
       "id":1165,
       "number":"61",
       "name":"Ebi Anigara (užkepti,aštrus)",
-      "descriptionLT":"Krevetės, lašiša, agurkai, aštrus padažas - viso 8 vnt.",
-      "descriptionRU":"Креветки ,лосось ,огурец , спайс соус - всего 8 кус",
+      "descriptionLT":"Krevetės, lašiša, agurkai, paniruotė, aštrus padažas - viso 8 vnt.",
+      "descriptionRU":"Креветки ,лосось ,огурец , панировка, спайс соус - всего 8 кус",
       "price":5.20,
       "url":"/media/Ebi Anigara.jpg"
    },
@@ -421,5 +421,59 @@
       "descriptionRU":"",
       "price":1.20,
       "url":"/media/vichi_classic.jpg"
-   }
+   },
+    {  
+      "id":1226,
+      "number":"39",
+      "name":"Kontrastai",
+      "descriptionLT":"Ungurys,krevetė,sūris, paprika - viso 8 vnt.",
+      "descriptionRU":"Угорь,креветка,сыр сливочный,паприка - всего 8 кусочков.",
+      "price":6.10,
+      "url":"/media/Kontrastai.jpg"
+   },
+    {  
+      "id":1226,
+      "number":"40",
+      "name":"Nagai jaki(aštrus)",
+      "descriptionLT":"Krevetė, ungurys,agurkai, aštrus padažas - viso 8 vnt.",
+      "descriptionRU":"Угорь,креветка,огурец,спайс соус - всего 8 кусочков.",
+      "price":5.20,
+      "url":"/media/Nagai Jaki.jpg"
+   },
+      {  
+      "id":1226,
+      "number":"41",
+      "name":"Amerika",
+      "descriptionLT":"Ungurys, sūris, masgo ikrai - viso 8 vnt.",
+      "descriptionRU":"Угорь,сыр сливочный, икра масаго - всего 8 кусочков.",
+      "price":7.70,
+      "url":"/media/Amerika.jpg"
+   },
+     {  
+      "id":1226,
+      "number":"42",
+      "name":"Hot krab(užkepti,aštrus)",
+      "descriptionLT":"Krabų lazdelės, agurkai, sezamo sėklos , aštrus padažas  - viso 8 vnt.",
+      "descriptionRU":"Крабовые палочки,сыр сливочный, икра масаго - всего 8 кусочков.",
+      "price":4.80,
+      "url":"/media/Hot krab.jpg"
+   },
+    {  
+      "id":1226,
+      "number":"43",
+      "name":"Šefo rollas(užkepti,aštrus)",
+      "descriptionLT":"Krabų lazdelės, agurkai, masgo ikrai,paniruotė, aštrus padažas  - viso 8 vnt.",
+      "descriptionRU":"Крабовые палочки,огурец, икра масаго,панировка,спайс соус - всего 8 кусочков.",
+      "price":5.00,
+      "url":"/media/Sefo rollas.jpg"
+   },
+    {  
+      "id":1226,
+      "number":"44",
+      "name":"Ebi Spicy(užkepti,aštrus)",
+      "descriptionLT":"Krevetė, lašiša, agurkai, masgo ikrai, aštrus padažas   - viso 8 vnt.",
+      "descriptionRU":"Креветка,лосоь, огурец, икра масаго,спайс соус - всего 8 кусочков.",
+      "price":4.90,
+      "url":"/media/Ebi Spajsi.jpg"
+   },
 ]
