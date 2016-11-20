@@ -305,16 +305,7 @@
       "price":2.90,
       "url":"/media/Vegetariškas.jpg"
    },
-   {  
-      "id":1165,
-      "number":"61",
-      "name":"Ebi Anigara (užkepti,aštrus)",
-      "descriptionLT":"Krevetės, lašiša, agurkai, paniruotė, aštrus padažas - viso 8 vnt.",
-      "descriptionRU":"Креветки ,лосось ,огурец , панировка, спайс соус - всего 8 кус",
-      "price":5.20,
-      "url":"/media/Ebi Anigara.jpg"
-   },    
-    {  
+      {  
       "id":1226,
       "number":"44",
       "name":"Ebi Spaisi(užkepti,aštrus)",
@@ -485,7 +476,6 @@
       "price":1.20,
       "url":"/media/vichi_classic.jpg"
    }   
-   
-     
+    
     
 ]
