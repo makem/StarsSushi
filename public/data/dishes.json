@@ -44,16 +44,7 @@
       "price":11.00,
       "url":"/media/Sv Rink.jpg"
    },
-      {  
-      "id":1070,
-      "number":"11",
-      "name":"Ebi Tempura",
-      "descriptionLT":"Tempuroje paniruotos keptos krevetės",
-      "descriptionRU":"Креветки, запеченые в кляре темпура",
-      "price":6.00,
-      "url":"/media/ebi_tempura.jpg"
-   },
-      {  
+    {  
       "id":1072,
       "number":"21",
       "name":"Bonito Maki",
