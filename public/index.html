@@ -34,6 +34,7 @@
                         </h1>
                         <div class="header-text">
                             <span ng-bind="L.sushiDelivery"></span>
+                            <div class="sub-text" ng-bind-html-unsafe="L.opened"></div>
                             <div class="sub-text" ng-bind-html-unsafe="L.minOrder" ng-show="isDeliveryTime()"></div>
                             <div class="sub-text" ng-bind="L.timeDelivery" style="color: hotpink;background-color: white;border-radius: 5px;padding: 5px 0;" ng-hide="isDeliveryTime()"></div>
                         </div>
