@@ -236,7 +236,7 @@ var lt = {
     minOrder: 'Minimalus užsakymas: 12 Eur. <br/> Nemokamas pristatymas Klaipėdos mieste: nuo 25 Eur; <br/> iki tos ribos pristatymo kaina yra 5 Eur. <br/> Užsakus daugiau negu 25 Eur, klientas gauna dovanu - Jasai Maki sushi; <br/> daugiau negu 45 Eur - Eko Fila sushi.',
     timeDelivery: 'Užsakymų priėmimo darbo laikas: nuo 11:00 iki 22:00 ',
     attention: '1 sushi komplektą kartu klientas gauna nemokamai 1 porcija imbirio, 1 porcija vasabi, 1 porcija sojos i 1 pora kiniškų lazdelių. <br/> Čia klientas viska gauna nemokamai!',
-    opened: 'Esame atviri: Pir-Kt, Sek 11.00-22.30 Pn, Šeš 11.00-00.30'
+    opened: 'Darbo laikas: Pirm-Ketv.,Sekm. 11.00-22.30, Penk.-Šešt. 11.00-00.30'
 };
 
 var ru = {
@@ -268,5 +268,5 @@ var ru = {
     minOrder: 'Минимальный заказ <b>12</b> евро. <br/> Стоимость доставки по Клайпеде 5 евро. <br/> Бесплатная доставка по Клайпеде от 25 евро. <br/> Подарок- при заказе от 25 евро- Jasai Maki. <br/> Подарок- при заказе от 45 евро- Eko Fila',
     timeDelivery: 'Прием заказов с 11 до 22',
     attention: 'В стоимость одного набора суши включены 1 палочки,1 порция имбиря,1 порция высаби, 1 порция соевого соуса. <br/> Это НЕ ОПЛАЧИВАЕТСЯ!',
-    opened: 'Мы открыты: Пн-Чт,Вс 11.00-22.30 Пт,Сб 11.00-00.30'
+    opened: 'Часы работы: Пн-Чт,Вс 11.00-22.30 Пт,Сб 11.00-00.30'
 };
